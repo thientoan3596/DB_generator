@@ -1,0 +1,12 @@
+{
+    "down time": {
+        "rate": 0.7,
+        "count": 4,
+        "reasons": [
+            "Service",
+            "Broken Machine",
+            "Others",
+            "Uncategorized"
+        ]
+    }
+}
