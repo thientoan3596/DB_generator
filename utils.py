@@ -64,6 +64,9 @@ class _time:
             elif type(args[0]) == datetime:
                 self.hour = args[0].hour
                 self.minute = args[0].minute
+            elif type(args[0]) == int:
+                self.hour = args[0]
+                self.minute = 0
             else:
                 print(type(args[0]))
                 print(args[0])
@@ -100,6 +103,9 @@ class _time:
 
     def toTimeDel(self):
         return timedelta(hours=self.hour, minutes=self.minute)
+
+    def toFloat(self):
+        return self.hour + self.minute/60
 
     def toMin(self):
         return self.hour*60+self.minute

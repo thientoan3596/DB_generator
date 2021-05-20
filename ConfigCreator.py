@@ -3,7 +3,8 @@ import json
 
 config = '''
    {
-       "history length":365,
+       "data name":"data.json",
+       "history length":200,
        "down time":{
            "rate":0.4,
            "count":4,
@@ -11,10 +12,10 @@ config = '''
        },
        "production":{
            "input per hour": 100,
-           "defect rate":{
-               "process 1": 0.12,
-               "process 2": 0.1,
-               "process 3": 0.13
+           "max defect rate":{
+               "process a": 0.15,
+               "process b": 0.2,
+               "process c": 0.1
            }
        }
    }   

@@ -1,2029 +1,3783 @@
 {
     "down time": {
-        "2020-05-18": {
-            "total down time": "03:08",
+        "2020-11-01": {
+            "total down time": "00:36",
             "detail": [
                 {
                     "time": {
-                        "start": "18:56",
-                        "end": "22:04"
+                        "start": "22:01",
+                        "end": "22:37"
                     },
-                    "duration": "03:08",
+                    "duration": "00:36",
                     "reason": "Uncategorized"
                 }
             ]
         },
-        "2020-05-20": {
-            "total down time": "11:26",
+        "2020-11-05": {
+            "total down time": "04:42",
             "detail": [
                 {
                     "time": {
-                        "start": "10:26",
-                        "end": "21:44"
+                        "start": "16:58",
+                        "end": "20:05"
                     },
-                    "duration": "11:18",
+                    "duration": "03:07",
+                    "reason": "Broken Machine"
+                },
+                {
+                    "time": {
+                        "start": "20:07",
+                        "end": "21:42"
+                    },
+                    "duration": "01:35",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-11-07": {
+            "total down time": "00:01",
+            "detail": [
+                {
+                    "time": {
+                        "start": "02:08",
+                        "end": "02:09"
+                    },
+                    "duration": "00:01",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-11-08": {
+            "total down time": "00:23",
+            "detail": [
+                {
+                    "time": {
+                        "start": "22:19",
+                        "end": "22:42"
+                    },
+                    "duration": "00:23",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-11-09": {
+            "total down time": "01:25",
+            "detail": [
+                {
+                    "time": {
+                        "start": "04:01",
+                        "end": "05:26"
+                    },
+                    "duration": "01:25",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2020-11-11": {
+            "total down time": "01:53",
+            "detail": [
+                {
+                    "time": {
+                        "start": "17:48",
+                        "end": "19:41"
+                    },
+                    "duration": "01:53",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-11-12": {
+            "total down time": "06:04",
+            "detail": [
+                {
+                    "time": {
+                        "start": "12:42",
+                        "end": "18:46"
+                    },
+                    "duration": "06:04",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-11-16": {
+            "total down time": "15:08",
+            "detail": [
+                {
+                    "time": {
+                        "start": "04:22",
+                        "end": "19:30"
+                    },
+                    "duration": "15:08",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-11-17": {
+            "total down time": "01:00",
+            "detail": [
+                {
+                    "time": {
+                        "start": "17:52",
+                        "end": "18:36"
+                    },
+                    "duration": "00:44",
+                    "reason": "Broken Machine"
+                },
+                {
+                    "time": {
+                        "start": "21:52",
+                        "end": "22:08"
+                    },
+                    "duration": "00:16",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-11-19": {
+            "total down time": "16:52",
+            "detail": [
+                {
+                    "time": {
+                        "start": "05:17",
+                        "end": "21:52"
+                    },
+                    "duration": "16:35",
                     "reason": "Uncategorized"
                 },
                 {
                     "time": {
-                        "start": "22:42",
-                        "end": "22:50"
+                        "start": "22:23",
+                        "end": "22:40"
+                    },
+                    "duration": "00:17",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-11-25": {
+            "total down time": "00:53",
+            "detail": [
+                {
+                    "time": {
+                        "start": "21:55",
+                        "end": "22:48"
+                    },
+                    "duration": "00:53",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2020-11-26": {
+            "total down time": "02:31",
+            "detail": [
+                {
+                    "time": {
+                        "start": "20:09",
+                        "end": "22:40"
+                    },
+                    "duration": "02:31",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-11-27": {
+            "total down time": "14:56",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:20",
+                        "end": "21:16"
+                    },
+                    "duration": "14:56",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-11-28": {
+            "total down time": "02:05",
+            "detail": [
+                {
+                    "time": {
+                        "start": "20:11",
+                        "end": "22:16"
+                    },
+                    "duration": "02:05",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-12-01": {
+            "total down time": "00:47",
+            "detail": [
+                {
+                    "time": {
+                        "start": "21:42",
+                        "end": "22:29"
+                    },
+                    "duration": "00:47",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-12-02": {
+            "total down time": "02:13",
+            "detail": [
+                {
+                    "time": {
+                        "start": "17:49",
+                        "end": "19:56"
+                    },
+                    "duration": "02:07",
+                    "reason": "Others"
+                },
+                {
+                    "time": {
+                        "start": "21:50",
+                        "end": "21:56"
+                    },
+                    "duration": "00:06",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2020-12-03": {
+            "total down time": "02:59",
+            "detail": [
+                {
+                    "time": {
+                        "start": "18:45",
+                        "end": "21:44"
+                    },
+                    "duration": "02:59",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-12-05": {
+            "total down time": "01:28",
+            "detail": [
+                {
+                    "time": {
+                        "start": "09:53",
+                        "end": "11:21"
+                    },
+                    "duration": "01:28",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-12-07": {
+            "total down time": "09:35",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:01",
+                        "end": "15:36"
+                    },
+                    "duration": "09:35",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2020-12-09": {
+            "total down time": "00:35",
+            "detail": [
+                {
+                    "time": {
+                        "start": "20:52",
+                        "end": "21:12"
+                    },
+                    "duration": "00:20",
+                    "reason": "Others"
+                },
+                {
+                    "time": {
+                        "start": "22:40",
+                        "end": "22:55"
+                    },
+                    "duration": "00:15",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-12-11": {
+            "total down time": "02:32",
+            "detail": [
+                {
+                    "time": {
+                        "start": "02:43",
+                        "end": "03:33"
+                    },
+                    "duration": "00:50",
+                    "reason": "Uncategorized"
+                },
+                {
+                    "time": {
+                        "start": "10:15",
+                        "end": "10:46"
+                    },
+                    "duration": "00:31",
+                    "reason": "Broken Machine"
+                },
+                {
+                    "time": {
+                        "start": "10:52",
+                        "end": "12:03"
+                    },
+                    "duration": "01:11",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-12-15": {
+            "total down time": "00:01",
+            "detail": [
+                {
+                    "time": {
+                        "start": "22:57",
+                        "end": "22:58"
+                    },
+                    "duration": "00:01",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-12-16": {
+            "total down time": "01:28",
+            "detail": [
+                {
+                    "time": {
+                        "start": "13:58",
+                        "end": "15:26"
+                    },
+                    "duration": "01:28",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-12-21": {
+            "total down time": "01:08",
+            "detail": [
+                {
+                    "time": {
+                        "start": "21:20",
+                        "end": "22:28"
+                    },
+                    "duration": "01:08",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2020-12-24": {
+            "total down time": "00:24",
+            "detail": [
+                {
+                    "time": {
+                        "start": "22:27",
+                        "end": "22:51"
+                    },
+                    "duration": "00:24",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2020-12-27": {
+            "total down time": "22:28",
+            "detail": [
+                {
+                    "time": {
+                        "start": "00:11",
+                        "end": "22:39"
+                    },
+                    "duration": "22:28",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2020-12-30": {
+            "total down time": "06:50",
+            "detail": [
+                {
+                    "time": {
+                        "start": "00:07",
+                        "end": "06:57"
+                    },
+                    "duration": "06:50",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2020-12-31": {
+            "total down time": "00:58",
+            "detail": [
+                {
+                    "time": {
+                        "start": "02:28",
+                        "end": "03:26"
+                    },
+                    "duration": "00:58",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2021-01-05": {
+            "total down time": "01:12",
+            "detail": [
+                {
+                    "time": {
+                        "start": "21:42",
+                        "end": "22:54"
+                    },
+                    "duration": "01:12",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-01-06": {
+            "total down time": "15:40",
+            "detail": [
+                {
+                    "time": {
+                        "start": "03:48",
+                        "end": "19:28"
+                    },
+                    "duration": "15:40",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-01-10": {
+            "total down time": "07:53",
+            "detail": [
+                {
+                    "time": {
+                        "start": "12:27",
+                        "end": "20:20"
+                    },
+                    "duration": "07:53",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2021-01-11": {
+            "total down time": "01:48",
+            "detail": [
+                {
+                    "time": {
+                        "start": "18:55",
+                        "end": "20:43"
+                    },
+                    "duration": "01:48",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-01-15": {
+            "total down time": "04:13",
+            "detail": [
+                {
+                    "time": {
+                        "start": "15:57",
+                        "end": "16:24"
+                    },
+                    "duration": "00:27",
+                    "reason": "Broken Machine"
+                },
+                {
+                    "time": {
+                        "start": "18:01",
+                        "end": "19:20"
+                    },
+                    "duration": "01:19",
+                    "reason": "Service"
+                },
+                {
+                    "time": {
+                        "start": "19:48",
+                        "end": "20:38"
+                    },
+                    "duration": "00:50",
+                    "reason": "Service"
+                },
+                {
+                    "time": {
+                        "start": "20:56",
+                        "end": "22:33"
+                    },
+                    "duration": "01:37",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-01-17": {
+            "total down time": "03:12",
+            "detail": [
+                {
+                    "time": {
+                        "start": "19:42",
+                        "end": "22:54"
+                    },
+                    "duration": "03:12",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2021-01-19": {
+            "total down time": "00:30",
+            "detail": [
+                {
+                    "time": {
+                        "start": "19:28",
+                        "end": "19:58"
+                    },
+                    "duration": "00:30",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2021-01-20": {
+            "total down time": "00:45",
+            "detail": [
+                {
+                    "time": {
+                        "start": "18:42",
+                        "end": "19:27"
+                    },
+                    "duration": "00:45",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-01-21": {
+            "total down time": "02:58",
+            "detail": [
+                {
+                    "time": {
+                        "start": "04:10",
+                        "end": "07:08"
+                    },
+                    "duration": "02:58",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2021-01-23": {
+            "total down time": "03:55",
+            "detail": [
+                {
+                    "time": {
+                        "start": "07:48",
+                        "end": "11:43"
+                    },
+                    "duration": "03:55",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-01-25": {
+            "total down time": "00:41",
+            "detail": [
+                {
+                    "time": {
+                        "start": "20:34",
+                        "end": "20:57"
+                    },
+                    "duration": "00:23",
+                    "reason": "Uncategorized"
+                },
+                {
+                    "time": {
+                        "start": "22:27",
+                        "end": "22:45"
+                    },
+                    "duration": "00:18",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-01-26": {
+            "total down time": "09:35",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:40",
+                        "end": "16:15"
+                    },
+                    "duration": "09:35",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-01-27": {
+            "total down time": "03:02",
+            "detail": [
+                {
+                    "time": {
+                        "start": "15:40",
+                        "end": "18:11"
+                    },
+                    "duration": "02:31",
+                    "reason": "Others"
+                },
+                {
+                    "time": {
+                        "start": "22:12",
+                        "end": "22:43"
+                    },
+                    "duration": "00:31",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-01-29": {
+            "total down time": "08:08",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:45",
+                        "end": "14:28"
+                    },
+                    "duration": "07:43",
+                    "reason": "Uncategorized"
+                },
+                {
+                    "time": {
+                        "start": "21:48",
+                        "end": "21:58"
+                    },
+                    "duration": "00:10",
+                    "reason": "Service"
+                },
+                {
+                    "time": {
+                        "start": "22:37",
+                        "end": "22:52"
+                    },
+                    "duration": "00:15",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-01-31": {
+            "total down time": "04:05",
+            "detail": [
+                {
+                    "time": {
+                        "start": "01:39",
+                        "end": "05:44"
+                    },
+                    "duration": "04:05",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-02-06": {
+            "total down time": "03:52",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:53",
+                        "end": "10:45"
+                    },
+                    "duration": "03:52",
+                    "reason": "Broken Machine"
+                }
+            ]
+        },
+        "2021-02-09": {
+            "total down time": "00:36",
+            "detail": [
+                {
+                    "time": {
+                        "start": "19:43",
+                        "end": "20:19"
+                    },
+                    "duration": "00:36",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-02-11": {
+            "total down time": "00:38",
+            "detail": [
+                {
+                    "time": {
+                        "start": "20:22",
+                        "end": "21:00"
+                    },
+                    "duration": "00:38",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-02-12": {
+            "total down time": "03:19",
+            "detail": [
+                {
+                    "time": {
+                        "start": "17:22",
+                        "end": "20:14"
+                    },
+                    "duration": "02:52",
+                    "reason": "Others"
+                },
+                {
+                    "time": {
+                        "start": "21:27",
+                        "end": "21:54"
+                    },
+                    "duration": "00:27",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-02-14": {
+            "total down time": "15:05",
+            "detail": [
+                {
+                    "time": {
+                        "start": "06:12",
+                        "end": "21:17"
+                    },
+                    "duration": "15:05",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-02-16": {
+            "total down time": "03:11",
+            "detail": [
+                {
+                    "time": {
+                        "start": "18:30",
+                        "end": "21:41"
+                    },
+                    "duration": "03:11",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-02-21": {
+            "total down time": "17:56",
+            "detail": [
+                {
+                    "time": {
+                        "start": "02:21",
+                        "end": "17:53"
+                    },
+                    "duration": "15:32",
+                    "reason": "Service"
+                },
+                {
+                    "time": {
+                        "start": "20:23",
+                        "end": "22:47"
+                    },
+                    "duration": "02:24",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-02-22": {
+            "total down time": "02:32",
+            "detail": [
+                {
+                    "time": {
+                        "start": "18:57",
+                        "end": "21:26"
+                    },
+                    "duration": "02:29",
+                    "reason": "Uncategorized"
+                },
+                {
+                    "time": {
+                        "start": "21:48",
+                        "end": "21:51"
+                    },
+                    "duration": "00:03",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-02-23": {
+            "total down time": "11:03",
+            "detail": [
+                {
+                    "time": {
+                        "start": "08:27",
+                        "end": "19:30"
+                    },
+                    "duration": "11:03",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-02-28": {
+            "total down time": "15:48",
+            "detail": [
+                {
+                    "time": {
+                        "start": "03:09",
+                        "end": "18:57"
+                    },
+                    "duration": "15:48",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2021-03-09": {
+            "total down time": "11:02",
+            "detail": [
+                {
+                    "time": {
+                        "start": "11:18",
+                        "end": "22:20"
+                    },
+                    "duration": "11:02",
+                    "reason": "Service"
+                }
+            ]
+        },
+        "2021-03-13": {
+            "total down time": "07:17",
+            "detail": [
+                {
+                    "time": {
+                        "start": "11:42",
+                        "end": "17:38"
+                    },
+                    "duration": "05:56",
+                    "reason": "Service"
+                },
+                {
+                    "time": {
+                        "start": "18:16",
+                        "end": "19:37"
+                    },
+                    "duration": "01:21",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-03-15": {
+            "total down time": "00:08",
+            "detail": [
+                {
+                    "time": {
+                        "start": "22:28",
+                        "end": "22:36"
                     },
                     "duration": "00:08",
                     "reason": "Uncategorized"
                 }
             ]
         },
-        "2020-05-21": {
-            "total down time": "00:04",
+        "2021-03-19": {
+            "total down time": "20:43",
             "detail": [
                 {
                     "time": {
-                        "start": "22:41",
-                        "end": "22:45"
-                    },
-                    "duration": "00:04",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-05-24": {
-            "total down time": "06:14",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:02",
-                        "end": "15:50"
-                    },
-                    "duration": "00:48",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "16:53",
-                        "end": "22:19"
-                    },
-                    "duration": "05:26",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-05-25": {
-            "total down time": "11:56",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:38",
-                        "end": "07:23"
-                    },
-                    "duration": "05:45",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "12:22",
-                        "end": "18:33"
-                    },
-                    "duration": "06:11",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-05-29": {
-            "total down time": "05:36",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:21",
-                        "end": "20:57"
-                    },
-                    "duration": "05:36",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-05-30": {
-            "total down time": "03:34",
-            "detail": [
-                {
-                    "time": {
-                        "start": "08:27",
-                        "end": "12:01"
-                    },
-                    "duration": "03:34",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-06-02": {
-            "total down time": "00:50",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:52",
-                        "end": "16:42"
-                    },
-                    "duration": "00:50",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-03": {
-            "total down time": "10:30",
-            "detail": [
-                {
-                    "time": {
-                        "start": "06:35",
-                        "end": "17:05"
-                    },
-                    "duration": "10:30",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-06-07": {
-            "total down time": "15:25",
-            "detail": [
-                {
-                    "time": {
-                        "start": "05:39",
-                        "end": "18:13"
-                    },
-                    "duration": "12:34",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "18:17",
-                        "end": "21:08"
-                    },
-                    "duration": "02:51",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-09": {
-            "total down time": "01:51",
-            "detail": [
-                {
-                    "time": {
-                        "start": "11:02",
-                        "end": "12:53"
-                    },
-                    "duration": "01:51",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-12": {
-            "total down time": "02:50",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:43",
-                        "end": "19:33"
-                    },
-                    "duration": "02:50",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-06-13": {
-            "total down time": "06:20",
-            "detail": [
-                {
-                    "time": {
-                        "start": "10:35",
-                        "end": "14:43"
-                    },
-                    "duration": "04:08",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "18:36",
-                        "end": "20:48"
-                    },
-                    "duration": "02:12",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-14": {
-            "total down time": "01:03",
-            "detail": [
-                {
-                    "time": {
-                        "start": "14:38",
-                        "end": "15:41"
-                    },
-                    "duration": "01:03",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-17": {
-            "total down time": "00:10",
-            "detail": [
-                {
-                    "time": {
-                        "start": "22:22",
-                        "end": "22:32"
-                    },
-                    "duration": "00:10",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-18": {
-            "total down time": "14:03",
-            "detail": [
-                {
-                    "time": {
-                        "start": "04:00",
-                        "end": "18:03"
-                    },
-                    "duration": "14:03",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-06-21": {
-            "total down time": "03:33",
-            "detail": [
-                {
-                    "time": {
-                        "start": "07:14",
-                        "end": "10:26"
-                    },
-                    "duration": "03:12",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "20:08",
-                        "end": "20:29"
-                    },
-                    "duration": "00:21",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-23": {
-            "total down time": "05:03",
-            "detail": [
-                {
-                    "time": {
-                        "start": "05:57",
-                        "end": "11:00"
-                    },
-                    "duration": "05:03",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-06-25": {
-            "total down time": "05:19",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:48",
-                        "end": "21:07"
-                    },
-                    "duration": "05:19",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-06-26": {
-            "total down time": "05:13",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:18",
-                        "end": "17:31"
-                    },
-                    "duration": "05:13",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-06-28": {
-            "total down time": "00:54",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:12",
-                        "end": "04:06"
-                    },
-                    "duration": "00:54",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-07-01": {
-            "total down time": "03:15",
-            "detail": [
-                {
-                    "time": {
-                        "start": "17:04",
-                        "end": "20:19"
-                    },
-                    "duration": "03:15",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-07-02": {
-            "total down time": "01:17",
-            "detail": [
-                {
-                    "time": {
-                        "start": "18:08",
-                        "end": "19:25"
-                    },
-                    "duration": "01:17",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-07-04": {
-            "total down time": "02:51",
-            "detail": [
-                {
-                    "time": {
-                        "start": "14:03",
-                        "end": "15:56"
-                    },
-                    "duration": "01:53",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "20:43",
-                        "end": "21:41"
-                    },
-                    "duration": "00:58",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-07-07": {
-            "total down time": "02:35",
-            "detail": [
-                {
-                    "time": {
-                        "start": "20:08",
-                        "end": "22:43"
-                    },
-                    "duration": "02:35",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-07-18": {
-            "total down time": "02:46",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:51",
-                        "end": "22:37"
-                    },
-                    "duration": "02:46",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-07-19": {
-            "total down time": "03:37",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:06",
-                        "end": "19:43"
-                    },
-                    "duration": "03:37",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-07-20": {
-            "total down time": "00:20",
-            "detail": [
-                {
-                    "time": {
-                        "start": "20:15",
-                        "end": "20:35"
-                    },
-                    "duration": "00:20",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-07-21": {
-            "total down time": "06:52",
-            "detail": [
-                {
-                    "time": {
-                        "start": "13:11",
-                        "end": "15:47"
-                    },
-                    "duration": "02:36",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "18:09",
-                        "end": "22:25"
-                    },
-                    "duration": "04:16",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-07-23": {
-            "total down time": "04:37",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:38",
-                        "end": "17:13"
-                    },
-                    "duration": "00:35",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "17:29",
-                        "end": "19:43"
-                    },
-                    "duration": "02:14",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "20:55",
-                        "end": "22:43"
-                    },
-                    "duration": "01:48",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-07-29": {
-            "total down time": "14:37",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:45",
-                        "end": "15:22"
-                    },
-                    "duration": "14:37",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-08-05": {
-            "total down time": "09:08",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:30",
-                        "end": "01:10"
-                    },
-                    "duration": "00:40",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "01:39",
-                        "end": "07:47"
-                    },
-                    "duration": "06:08",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "18:39",
-                        "end": "20:50"
-                    },
-                    "duration": "02:11",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "21:28",
-                        "end": "21:37"
-                    },
-                    "duration": "00:09",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-08-06": {
-            "total down time": "10:34",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:50",
-                        "end": "11:20"
-                    },
-                    "duration": "10:30",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "13:46",
-                        "end": "13:50"
-                    },
-                    "duration": "00:04",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-08-15": {
-            "total down time": "01:56",
-            "detail": [
-                {
-                    "time": {
-                        "start": "18:42",
-                        "end": "19:42"
-                    },
-                    "duration": "01:00",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "21:27",
-                        "end": "22:23"
-                    },
-                    "duration": "00:56",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-08-20": {
-            "total down time": "04:58",
-            "detail": [
-                {
-                    "time": {
-                        "start": "09:00",
-                        "end": "13:58"
-                    },
-                    "duration": "04:58",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-08-25": {
-            "total down time": "10:24",
-            "detail": [
-                {
-                    "time": {
-                        "start": "02:32",
-                        "end": "12:56"
-                    },
-                    "duration": "10:24",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-08-27": {
-            "total down time": "01:24",
-            "detail": [
-                {
-                    "time": {
-                        "start": "11:13",
-                        "end": "12:37"
-                    },
-                    "duration": "01:24",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-08-28": {
-            "total down time": "12:44",
-            "detail": [
-                {
-                    "time": {
-                        "start": "09:40",
-                        "end": "22:24"
-                    },
-                    "duration": "12:44",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-08-29": {
-            "total down time": "01:28",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:28",
-                        "end": "02:56"
-                    },
-                    "duration": "01:28",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-09-02": {
-            "total down time": "00:35",
-            "detail": [
-                {
-                    "time": {
-                        "start": "21:28",
-                        "end": "22:03"
-                    },
-                    "duration": "00:35",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-09-06": {
-            "total down time": "05:48",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:04",
-                        "end": "08:52"
-                    },
-                    "duration": "05:48",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-09-08": {
-            "total down time": "00:47",
-            "detail": [
-                {
-                    "time": {
-                        "start": "21:46",
-                        "end": "22:33"
-                    },
-                    "duration": "00:47",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-09-11": {
-            "total down time": "02:39",
-            "detail": [
-                {
-                    "time": {
-                        "start": "06:30",
-                        "end": "09:09"
-                    },
-                    "duration": "02:39",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-09-22": {
-            "total down time": "01:48",
-            "detail": [
-                {
-                    "time": {
-                        "start": "18:47",
-                        "end": "20:35"
-                    },
-                    "duration": "01:48",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-10-01": {
-            "total down time": "16:02",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:22",
-                        "end": "17:24"
-                    },
-                    "duration": "16:02",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-10-03": {
-            "total down time": "01:24",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:19",
-                        "end": "17:43"
-                    },
-                    "duration": "01:24",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-10-04": {
-            "total down time": "01:31",
-            "detail": [
-                {
-                    "time": {
-                        "start": "17:01",
-                        "end": "18:32"
-                    },
-                    "duration": "01:31",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-10-07": {
-            "total down time": "04:26",
-            "detail": [
-                {
-                    "time": {
-                        "start": "04:44",
-                        "end": "09:10"
-                    },
-                    "duration": "04:26",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-10-10": {
-            "total down time": "02:22",
-            "detail": [
-                {
-                    "time": {
-                        "start": "02:25",
-                        "end": "04:47"
-                    },
-                    "duration": "02:22",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-10-17": {
-            "total down time": "14:52",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:54",
-                        "end": "18:45"
-                    },
-                    "duration": "14:51",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "22:54",
-                        "end": "22:55"
-                    },
-                    "duration": "00:01",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-10-21": {
-            "total down time": "07:37",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:54",
-                        "end": "20:31"
-                    },
-                    "duration": "07:37",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-10-29": {
-            "total down time": "02:21",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:19",
-                        "end": "18:37"
-                    },
-                    "duration": "02:18",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "22:48",
-                        "end": "22:51"
-                    },
-                    "duration": "00:03",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-11-01": {
-            "total down time": "04:58",
-            "detail": [
-                {
-                    "time": {
-                        "start": "14:45",
-                        "end": "18:34"
-                    },
-                    "duration": "03:49",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "18:54",
-                        "end": "18:56"
-                    },
-                    "duration": "00:02",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "18:58",
-                        "end": "20:05"
-                    },
-                    "duration": "01:07",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-11-04": {
-            "total down time": "09:38",
-            "detail": [
-                {
-                    "time": {
-                        "start": "08:08",
-                        "end": "17:46"
-                    },
-                    "duration": "09:38",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-11-08": {
-            "total down time": "11:26",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:45",
-                        "end": "13:09"
-                    },
-                    "duration": "11:24",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "15:45",
-                        "end": "15:47"
-                    },
-                    "duration": "00:02",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-11-09": {
-            "total down time": "12:47",
-            "detail": [
-                {
-                    "time": {
-                        "start": "08:52",
-                        "end": "21:37"
-                    },
-                    "duration": "12:45",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "22:56",
-                        "end": "22:58"
-                    },
-                    "duration": "00:02",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-11-12": {
-            "total down time": "00:28",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:12",
-                        "end": "19:40"
-                    },
-                    "duration": "00:28",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-11-14": {
-            "total down time": "17:24",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:09",
-                        "end": "16:32"
-                    },
-                    "duration": "15:23",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "16:38",
-                        "end": "16:45"
-                    },
-                    "duration": "00:07",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "20:19",
-                        "end": "22:13"
-                    },
-                    "duration": "01:54",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-11-15": {
-            "total down time": "03:08",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:44",
-                        "end": "19:52"
-                    },
-                    "duration": "03:08",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-11-18": {
-            "total down time": "01:47",
-            "detail": [
-                {
-                    "time": {
-                        "start": "18:49",
-                        "end": "20:36"
-                    },
-                    "duration": "01:47",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-11-23": {
-            "total down time": "03:17",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:09",
-                        "end": "22:26"
-                    },
-                    "duration": "03:17",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-11-24": {
-            "total down time": "02:13",
-            "detail": [
-                {
-                    "time": {
-                        "start": "14:48",
-                        "end": "17:01"
-                    },
-                    "duration": "02:13",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-11-28": {
-            "total down time": "02:44",
-            "detail": [
-                {
-                    "time": {
-                        "start": "13:42",
-                        "end": "16:26"
-                    },
-                    "duration": "02:44",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-11-29": {
-            "total down time": "05:40",
-            "detail": [
-                {
-                    "time": {
-                        "start": "13:08",
-                        "end": "18:48"
-                    },
-                    "duration": "05:40",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-11-30": {
-            "total down time": "02:02",
-            "detail": [
-                {
-                    "time": {
-                        "start": "07:58",
-                        "end": "10:00"
-                    },
-                    "duration": "02:02",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-12-03": {
-            "total down time": "00:06",
-            "detail": [
-                {
-                    "time": {
-                        "start": "13:40",
-                        "end": "13:46"
-                    },
-                    "duration": "00:06",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-12-05": {
-            "total down time": "00:01",
-            "detail": [
-                {
-                    "time": {
-                        "start": "11:57",
-                        "end": "11:58"
-                    },
-                    "duration": "00:01",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-12-09": {
-            "total down time": "04:03",
-            "detail": [
-                {
-                    "time": {
-                        "start": "08:32",
-                        "end": "12:11"
-                    },
-                    "duration": "03:39",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "13:46",
-                        "end": "14:10"
-                    },
-                    "duration": "00:24",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-12-11": {
-            "total down time": "02:34",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:27",
-                        "end": "22:01"
-                    },
-                    "duration": "02:34",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-12-16": {
-            "total down time": "04:49",
-            "detail": [
-                {
-                    "time": {
-                        "start": "05:25",
-                        "end": "05:48"
-                    },
-                    "duration": "00:23",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "16:56",
-                        "end": "21:04"
-                    },
-                    "duration": "04:08",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "22:31",
-                        "end": "22:49"
-                    },
-                    "duration": "00:18",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2020-12-20": {
-            "total down time": "09:38",
-            "detail": [
-                {
-                    "time": {
-                        "start": "10:58",
-                        "end": "20:31"
-                    },
-                    "duration": "09:33",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "22:31",
-                        "end": "22:36"
-                    },
-                    "duration": "00:05",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2020-12-21": {
-            "total down time": "00:44",
-            "detail": [
-                {
-                    "time": {
-                        "start": "20:07",
-                        "end": "20:51"
-                    },
-                    "duration": "00:44",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2020-12-23": {
-            "total down time": "18:03",
-            "detail": [
-                {
-                    "time": {
-                        "start": "01:27",
-                        "end": "17:13"
-                    },
-                    "duration": "15:46",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "20:24",
-                        "end": "22:41"
-                    },
-                    "duration": "02:17",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2020-12-31": {
-            "total down time": "13:41",
-            "detail": [
-                {
-                    "time": {
-                        "start": "08:13",
-                        "end": "21:30"
-                    },
-                    "duration": "13:17",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "22:06",
-                        "end": "22:30"
-                    },
-                    "duration": "00:24",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-01-04": {
-            "total down time": "02:50",
-            "detail": [
-                {
-                    "time": {
-                        "start": "18:08",
-                        "end": "20:58"
-                    },
-                    "duration": "02:50",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-01-05": {
-            "total down time": "04:40",
-            "detail": [
-                {
-                    "time": {
-                        "start": "06:09",
-                        "end": "10:01"
-                    },
-                    "duration": "03:52",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "17:12",
-                        "end": "18:00"
-                    },
-                    "duration": "00:48",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-01-07": {
-            "total down time": "00:47",
-            "detail": [
-                {
-                    "time": {
-                        "start": "21:15",
-                        "end": "21:42"
-                    },
-                    "duration": "00:27",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "22:37",
-                        "end": "22:57"
-                    },
-                    "duration": "00:20",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-01-10": {
-            "total down time": "00:35",
-            "detail": [
-                {
-                    "time": {
-                        "start": "22:13",
-                        "end": "22:48"
-                    },
-                    "duration": "00:35",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-01-15": {
-            "total down time": "03:56",
-            "detail": [
-                {
-                    "time": {
-                        "start": "11:24",
-                        "end": "15:20"
-                    },
-                    "duration": "03:56",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-01-16": {
-            "total down time": "07:04",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:41",
-                        "end": "22:45"
-                    },
-                    "duration": "07:04",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-01-22": {
-            "total down time": "12:17",
-            "detail": [
-                {
-                    "time": {
-                        "start": "10:04",
-                        "end": "22:21"
-                    },
-                    "duration": "12:17",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-01-26": {
-            "total down time": "03:59",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:34",
-                        "end": "16:33"
-                    },
-                    "duration": "03:59",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-01-28": {
-            "total down time": "14:47",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:47",
-                        "end": "15:34"
-                    },
-                    "duration": "14:47",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-01-30": {
-            "total down time": "03:42",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:50",
-                        "end": "07:32"
-                    },
-                    "duration": "03:42",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-02-06": {
-            "total down time": "00:56",
-            "detail": [
-                {
-                    "time": {
-                        "start": "21:12",
-                        "end": "21:55"
-                    },
-                    "duration": "00:43",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "22:19",
-                        "end": "22:32"
-                    },
-                    "duration": "00:13",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-02-11": {
-            "total down time": "02:23",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:39",
-                        "end": "14:56"
-                    },
-                    "duration": "02:17",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "22:22",
-                        "end": "22:28"
-                    },
-                    "duration": "00:06",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-02-14": {
-            "total down time": "02:51",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:42",
-                        "end": "15:33"
-                    },
-                    "duration": "02:51",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-02-15": {
-            "total down time": "01:34",
-            "detail": [
-                {
-                    "time": {
-                        "start": "20:47",
-                        "end": "22:21"
-                    },
-                    "duration": "01:34",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-02-16": {
-            "total down time": "05:43",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:38",
-                        "end": "06:52"
-                    },
-                    "duration": "03:14",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "19:39",
-                        "end": "22:08"
-                    },
-                    "duration": "02:29",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-02-17": {
-            "total down time": "02:45",
-            "detail": [
-                {
-                    "time": {
-                        "start": "16:13",
-                        "end": "18:55"
-                    },
-                    "duration": "02:42",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "22:40",
-                        "end": "22:43"
-                    },
-                    "duration": "00:03",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-02-22": {
-            "total down time": "07:29",
-            "detail": [
-                {
-                    "time": {
-                        "start": "14:33",
-                        "end": "22:02"
-                    },
-                    "duration": "07:29",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-03-03": {
-            "total down time": "00:07",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:45",
-                        "end": "19:52"
-                    },
-                    "duration": "00:07",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-03-04": {
-            "total down time": "02:05",
-            "detail": [
-                {
-                    "time": {
-                        "start": "20:40",
-                        "end": "22:45"
-                    },
-                    "duration": "02:05",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-03-05": {
-            "total down time": "17:55",
-            "detail": [
-                {
-                    "time": {
-                        "start": "03:37",
-                        "end": "19:34"
-                    },
-                    "duration": "15:57",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "20:20",
-                        "end": "22:18"
-                    },
-                    "duration": "01:58",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-03-06": {
-            "total down time": "03:58",
-            "detail": [
-                {
-                    "time": {
-                        "start": "02:49",
-                        "end": "06:35"
-                    },
-                    "duration": "03:46",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "22:23",
-                        "end": "22:35"
-                    },
-                    "duration": "00:12",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-03-07": {
-            "total down time": "04:25",
-            "detail": [
-                {
-                    "time": {
-                        "start": "05:49",
-                        "end": "10:14"
-                    },
-                    "duration": "04:25",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-03-08": {
-            "total down time": "01:17",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:03",
-                        "end": "13:20"
-                    },
-                    "duration": "01:17",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-03-12": {
-            "total down time": "05:29",
-            "detail": [
-                {
-                    "time": {
-                        "start": "09:54",
-                        "end": "11:46"
-                    },
-                    "duration": "01:52",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "16:33",
+                        "start": "00:23",
                         "end": "20:10"
                     },
-                    "duration": "03:37",
+                    "duration": "19:47",
                     "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-03-13": {
-            "total down time": "07:08",
-            "detail": [
-                {
-                    "time": {
-                        "start": "04:50",
-                        "end": "11:58"
-                    },
-                    "duration": "07:08",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-03-15": {
-            "total down time": "02:07",
-            "detail": [
-                {
-                    "time": {
-                        "start": "09:37",
-                        "end": "11:44"
-                    },
-                    "duration": "02:07",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-03-16": {
-            "total down time": "20:57",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:46",
-                        "end": "21:43"
-                    },
-                    "duration": "20:57",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-03-18": {
-            "total down time": "10:46",
-            "detail": [
-                {
-                    "time": {
-                        "start": "09:06",
-                        "end": "15:31"
-                    },
-                    "duration": "06:25",
-                    "reason": "Uncategorized"
                 },
                 {
                     "time": {
-                        "start": "15:48",
-                        "end": "20:02"
+                        "start": "20:28",
+                        "end": "21:24"
                     },
-                    "duration": "04:14",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "22:47",
-                        "end": "22:54"
-                    },
-                    "duration": "00:07",
+                    "duration": "00:56",
                     "reason": "Others"
-                }
-            ]
-        },
-        "2021-03-21": {
-            "total down time": "00:54",
-            "detail": [
-                {
-                    "time": {
-                        "start": "19:43",
-                        "end": "20:37"
-                    },
-                    "duration": "00:54",
-                    "reason": "Broken Machine"
                 }
             ]
         },
         "2021-03-22": {
-            "total down time": "00:03",
+            "total down time": "00:35",
             "detail": [
                 {
                     "time": {
-                        "start": "22:55",
-                        "end": "22:58"
+                        "start": "20:29",
+                        "end": "20:42"
                     },
-                    "duration": "00:03",
+                    "duration": "00:13",
+                    "reason": "Uncategorized"
+                },
+                {
+                    "time": {
+                        "start": "21:48",
+                        "end": "22:10"
+                    },
+                    "duration": "00:22",
                     "reason": "Service"
                 }
             ]
         },
-        "2021-03-26": {
-            "total down time": "00:32",
+        "2021-03-25": {
+            "total down time": "17:52",
             "detail": [
                 {
                     "time": {
-                        "start": "01:47",
-                        "end": "02:19"
+                        "start": "04:12",
+                        "end": "22:04"
                     },
-                    "duration": "00:32",
+                    "duration": "17:52",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-03-27": {
+            "total down time": "02:59",
+            "detail": [
+                {
+                    "time": {
+                        "start": "14:44",
+                        "end": "17:43"
+                    },
+                    "duration": "02:59",
                     "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-03-30": {
-            "total down time": "00:40",
-            "detail": [
-                {
-                    "time": {
-                        "start": "04:15",
-                        "end": "04:55"
-                    },
-                    "duration": "00:40",
-                    "reason": "Service"
                 }
             ]
         },
         "2021-03-31": {
-            "total down time": "07:10",
+            "total down time": "06:42",
             "detail": [
                 {
                     "time": {
-                        "start": "10:11",
-                        "end": "17:21"
+                        "start": "15:05",
+                        "end": "20:34"
                     },
-                    "duration": "07:10",
-                    "reason": "Broken Machine"
-                }
-            ]
-        },
-        "2021-04-04": {
-            "total down time": "05:15",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:44",
-                        "end": "17:44"
-                    },
-                    "duration": "05:00",
-                    "reason": "Service"
+                    "duration": "05:29",
+                    "reason": "Others"
                 },
                 {
                     "time": {
-                        "start": "22:36",
-                        "end": "22:51"
+                        "start": "21:25",
+                        "end": "22:38"
+                    },
+                    "duration": "01:13",
+                    "reason": "Uncategorized"
+                }
+            ]
+        },
+        "2021-04-03": {
+            "total down time": "00:15",
+            "detail": [
+                {
+                    "time": {
+                        "start": "05:29",
+                        "end": "05:44"
                     },
                     "duration": "00:15",
                     "reason": "Broken Machine"
                 }
             ]
         },
-        "2021-04-07": {
-            "total down time": "07:56",
+        "2021-04-05": {
+            "total down time": "07:27",
             "detail": [
                 {
                     "time": {
-                        "start": "08:58",
-                        "end": "16:54"
+                        "start": "11:19",
+                        "end": "18:46"
                     },
-                    "duration": "07:56",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-04-09": {
-            "total down time": "01:52",
-            "detail": [
-                {
-                    "time": {
-                        "start": "15:19",
-                        "end": "16:03"
-                    },
-                    "duration": "00:44",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "20:27",
-                        "end": "21:35"
-                    },
-                    "duration": "01:08",
-                    "reason": "Others"
-                }
-            ]
-        },
-        "2021-04-11": {
-            "total down time": "07:57",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:31",
-                        "end": "08:28"
-                    },
-                    "duration": "07:57",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-04-14": {
-            "total down time": "09:53",
-            "detail": [
-                {
-                    "time": {
-                        "start": "05:32",
-                        "end": "12:40"
-                    },
-                    "duration": "07:08",
+                    "duration": "07:27",
                     "reason": "Uncategorized"
-                },
+                }
+            ]
+        },
+        "2021-04-08": {
+            "total down time": "00:02",
+            "detail": [
                 {
                     "time": {
-                        "start": "15:32",
-                        "end": "17:11"
+                        "start": "21:46",
+                        "end": "21:48"
                     },
-                    "duration": "01:39",
-                    "reason": "Others"
-                },
-                {
-                    "time": {
-                        "start": "21:45",
-                        "end": "22:51"
-                    },
-                    "duration": "01:06",
+                    "duration": "00:02",
                     "reason": "Broken Machine"
                 }
             ]
         },
-        "2021-04-15": {
-            "total down time": "00:28",
+        "2021-04-10": {
+            "total down time": "12:38",
             "detail": [
                 {
                     "time": {
-                        "start": "15:13",
-                        "end": "15:41"
+                        "start": "10:13",
+                        "end": "22:51"
                     },
-                    "duration": "00:28",
-                    "reason": "Service"
+                    "duration": "12:38",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-04-13": {
+            "total down time": "08:33",
+            "detail": [
+                {
+                    "time": {
+                        "start": "14:19",
+                        "end": "22:52"
+                    },
+                    "duration": "08:33",
+                    "reason": "Others"
                 }
             ]
         },
         "2021-04-16": {
-            "total down time": "00:24",
+            "total down time": "00:01",
             "detail": [
                 {
                     "time": {
-                        "start": "21:00",
-                        "end": "21:24"
+                        "start": "22:57",
+                        "end": "22:58"
                     },
-                    "duration": "00:24",
-                    "reason": "Service"
+                    "duration": "00:01",
+                    "reason": "Uncategorized"
                 }
             ]
         },
-        "2021-04-20": {
-            "total down time": "15:00",
+        "2021-04-18": {
+            "total down time": "00:10",
             "detail": [
                 {
                     "time": {
-                        "start": "07:42",
-                        "end": "20:56"
+                        "start": "15:47",
+                        "end": "15:57"
                     },
-                    "duration": "13:14",
-                    "reason": "Uncategorized"
-                },
-                {
-                    "time": {
-                        "start": "20:58",
-                        "end": "22:44"
-                    },
-                    "duration": "01:46",
-                    "reason": "Uncategorized"
+                    "duration": "00:10",
+                    "reason": "Broken Machine"
                 }
             ]
         },
         "2021-04-23": {
-            "total down time": "05:52",
+            "total down time": "00:20",
             "detail": [
                 {
                     "time": {
-                        "start": "04:38",
-                        "end": "10:30"
+                        "start": "22:29",
+                        "end": "22:49"
                     },
-                    "duration": "05:52",
+                    "duration": "00:20",
                     "reason": "Service"
                 }
             ]
         },
-        "2021-04-29": {
-            "total down time": "01:19",
+        "2021-04-25": {
+            "total down time": "02:11",
             "detail": [
                 {
                     "time": {
-                        "start": "18:04",
-                        "end": "19:23"
+                        "start": "09:13",
+                        "end": "11:24"
                     },
-                    "duration": "01:19",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-05-03": {
-            "total down time": "01:54",
-            "detail": [
-                {
-                    "time": {
-                        "start": "12:03",
-                        "end": "12:21"
-                    },
-                    "duration": "00:18",
+                    "duration": "02:11",
                     "reason": "Uncategorized"
-                },
+                }
+            ]
+        },
+        "2021-04-26": {
+            "total down time": "05:18",
+            "detail": [
                 {
                     "time": {
-                        "start": "19:43",
-                        "end": "19:44"
+                        "start": "04:17",
+                        "end": "09:35"
                     },
-                    "duration": "00:01",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "21:07",
-                        "end": "22:42"
-                    },
-                    "duration": "01:35",
+                    "duration": "05:18",
                     "reason": "Others"
                 }
             ]
         },
-        "2021-05-04": {
-            "total down time": "15:39",
+        "2021-04-30": {
+            "total down time": "06:51",
             "detail": [
                 {
                     "time": {
-                        "start": "04:09",
-                        "end": "19:48"
+                        "start": "10:16",
+                        "end": "17:07"
                     },
-                    "duration": "15:39",
+                    "duration": "06:51",
                     "reason": "Service"
                 }
             ]
         },
-        "2021-05-09": {
-            "total down time": "03:01",
+        "2021-05-01": {
+            "total down time": "00:08",
             "detail": [
                 {
                     "time": {
-                        "start": "18:19",
-                        "end": "21:17"
+                        "start": "18:41",
+                        "end": "18:49"
                     },
-                    "duration": "02:58",
-                    "reason": "Broken Machine"
-                },
-                {
-                    "time": {
-                        "start": "21:53",
-                        "end": "21:56"
-                    },
-                    "duration": "00:03",
+                    "duration": "00:08",
                     "reason": "Uncategorized"
                 }
             ]
         },
-        "2021-05-11": {
-            "total down time": "01:11",
+        "2021-05-06": {
+            "total down time": "02:55",
             "detail": [
                 {
                     "time": {
-                        "start": "20:38",
-                        "end": "20:49"
+                        "start": "14:35",
+                        "end": "17:17"
                     },
-                    "duration": "00:11",
-                    "reason": "Broken Machine"
+                    "duration": "02:42",
+                    "reason": "Uncategorized"
                 },
                 {
                     "time": {
-                        "start": "21:45",
-                        "end": "22:45"
+                        "start": "20:12",
+                        "end": "20:25"
                     },
-                    "duration": "01:00",
+                    "duration": "00:13",
+                    "reason": "Others"
+                }
+            ]
+        },
+        "2021-05-08": {
+            "total down time": "08:21",
+            "detail": [
+                {
+                    "time": {
+                        "start": "01:33",
+                        "end": "09:54"
+                    },
+                    "duration": "08:21",
                     "reason": "Others"
                 }
             ]
         },
         "2021-05-13": {
-            "total down time": "02:29",
+            "total down time": "00:20",
             "detail": [
                 {
                     "time": {
-                        "start": "17:57",
-                        "end": "20:18"
+                        "start": "20:34",
+                        "end": "20:54"
                     },
-                    "duration": "02:21",
-                    "reason": "Service"
-                },
-                {
-                    "time": {
-                        "start": "22:34",
-                        "end": "22:42"
-                    },
-                    "duration": "00:08",
-                    "reason": "Service"
-                }
-            ]
-        },
-        "2021-05-14": {
-            "total down time": "15:42",
-            "detail": [
-                {
-                    "time": {
-                        "start": "04:34",
-                        "end": "20:16"
-                    },
-                    "duration": "15:42",
-                    "reason": "Uncategorized"
-                }
-            ]
-        },
-        "2021-05-15": {
-            "total down time": "03:54",
-            "detail": [
-                {
-                    "time": {
-                        "start": "00:44",
-                        "end": "04:38"
-                    },
-                    "duration": "03:54",
+                    "duration": "00:20",
                     "reason": "Broken Machine"
                 }
             ]
         },
-        "2021-05-17": {
-            "total down time": "20:19",
+        "2021-05-15": {
+            "total down time": "00:10",
             "detail": [
                 {
                     "time": {
-                        "start": "00:54",
-                        "end": "21:13"
+                        "start": "17:39",
+                        "end": "17:49"
                     },
-                    "duration": "20:19",
+                    "duration": "00:10",
                     "reason": "Others"
                 }
             ]
+        }
+    },
+    "production": {
+        "2020-11-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 76,
+            "process a fpy": 0.9166666666666666,
+            "process b input": 2276,
+            "process b reworked": 99,
+            "process b fpy": 0.9415641476274165,
+            "process c input": 2242,
+            "process c reworked": 48,
+            "process c fpy": 0.9607493309545049,
+            "output": 2202
+        },
+        "2020-11-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 137,
+            "process a fpy": 0.8883333333333333,
+            "process b input": 2269,
+            "process b reworked": 8,
+            "process b fpy": 0.884530630233583,
+            "process c input": 2015,
+            "process c reworked": 109,
+            "process c fpy": 0.9007444168734491,
+            "output": 1924
+        },
+        "2020-11-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 107,
+            "process a fpy": 0.9458333333333333,
+            "process b input": 2377,
+            "process b reworked": 114,
+            "process b fpy": 0.9406815313420278,
+            "process c input": 2350,
+            "process c reworked": 164,
+            "process c fpy": 0.9080851063829787,
+            "output": 2298
+        },
+        "2020-11-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9558333333333333,
+            "process b input": 2296,
+            "process b reworked": 18,
+            "process b fpy": 0.9873693379790941,
+            "process c input": 2285,
+            "process c reworked": 44,
+            "process c fpy": 0.9789934354485776,
+            "output": 2281
+        },
+        "2020-11-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 300,
+            "process a fpy": 0.8583333333333333,
+            "process b input": 2360,
+            "process b reworked": 17,
+            "process b fpy": 0.934322033898305,
+            "process c input": 2222,
+            "process c reworked": 92,
+            "process c fpy": 0.9464446444644464,
+            "output": 2195
+        },
+        "2020-11-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 10,
+            "process a fpy": 0.95375,
+            "process b input": 2299,
+            "process b reworked": 141,
+            "process b fpy": 0.8677685950413223,
+            "process c input": 2136,
+            "process c reworked": 10,
+            "process c fpy": 0.9934456928838952,
+            "output": 2132
+        },
+        "2020-11-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 217,
+            "process a fpy": 0.8879166666666667,
+            "process b input": 2348,
+            "process b reworked": 47,
+            "process b fpy": 0.91396933560477,
+            "process c input": 2193,
+            "process c reworked": 37,
+            "process c fpy": 0.9785681714546284,
+            "output": 2183
+        },
+        "2020-11-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 3,
+            "process a fpy": 0.9970833333333333,
+            "process b input": 2396,
+            "process b reworked": 91,
+            "process b fpy": 0.9394824707846411,
+            "process c input": 2342,
+            "process c reworked": 85,
+            "process c fpy": 0.9056362083689155,
+            "output": 2206
+        },
+        "2020-11-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 174,
+            "process a fpy": 0.8620833333333333,
+            "process b input": 2243,
+            "process b reworked": 66,
+            "process b fpy": 0.8925546143557735,
+            "process c input": 2068,
+            "process c reworked": 62,
+            "process c fpy": 0.9318181818181818,
+            "output": 1989
+        },
+        "2020-11-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 135,
+            "process a fpy": 0.8691666666666666,
+            "process b input": 2221,
+            "process b reworked": 29,
+            "process b fpy": 0.9270598829356146,
+            "process c input": 2088,
+            "process c reworked": 0,
+            "process c fpy": 0.9990421455938697,
+            "output": 2086
+        },
+        "2020-11-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 134,
+            "process a fpy": 0.8854166666666666,
+            "process b input": 2259,
+            "process b reworked": 13,
+            "process b fpy": 0.9039397963700753,
+            "process c input": 2055,
+            "process c reworked": 19,
+            "process c fpy": 0.9031630170316302,
+            "output": 1875
+        },
+        "2020-11-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 37,
+            "process a fpy": 0.9266666666666666,
+            "process b input": 2261,
+            "process b reworked": 198,
+            "process b fpy": 0.8761609907120743,
+            "process c input": 2179,
+            "process c reworked": 23,
+            "process c fpy": 0.9150986691142726,
+            "output": 2017
+        },
+        "2020-11-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 137,
+            "process a fpy": 0.8708333333333333,
+            "process b input": 2227,
+            "process b reworked": 19,
+            "process b fpy": 0.9869779973057925,
+            "process c input": 2217,
+            "process c reworked": 14,
+            "process c fpy": 0.9093369418132612,
+            "output": 2030
+        },
+        "2020-11-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 189,
+            "process a fpy": 0.8704166666666666,
+            "process b input": 2278,
+            "process b reworked": 47,
+            "process b fpy": 0.9714661984196664,
+            "process c input": 2260,
+            "process c reworked": 74,
+            "process c fpy": 0.9473451327433628,
+            "output": 2215
+        },
+        "2020-11-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 199,
+            "process a fpy": 0.9070833333333334,
+            "process b input": 2376,
+            "process b reworked": 105,
+            "process b fpy": 0.8143939393939394,
+            "process c input": 2040,
+            "process c reworked": 2,
+            "process c fpy": 0.9970588235294118,
+            "output": 2036
+        },
+        "2020-11-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9979166666666667,
+            "process b input": 2397,
+            "process b reworked": 282,
+            "process b fpy": 0.8068418856904463,
+            "process c input": 2216,
+            "process c reworked": 34,
+            "process c fpy": 0.9814981949458483,
+            "output": 2209
+        },
+        "2020-11-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 35,
+            "process a fpy": 0.9745833333333334,
+            "process b input": 2374,
+            "process b reworked": 11,
+            "process b fpy": 0.9911541701769166,
+            "process c input": 2364,
+            "process c reworked": 53,
+            "process c fpy": 0.9619289340101523,
+            "output": 2327
+        },
+        "2020-11-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 96,
+            "process a fpy": 0.9008333333333334,
+            "process b input": 2258,
+            "process b reworked": 226,
+            "process b fpy": 0.8396811337466785,
+            "process c input": 2122,
+            "process c reworked": 0,
+            "process c fpy": 0.9995287464655985,
+            "output": 2121
+        },
+        "2020-11-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 73,
+            "process a fpy": 0.9579166666666666,
+            "process b input": 2372,
+            "process b reworked": 279,
+            "process b fpy": 0.8570826306913997,
+            "process c input": 2312,
+            "process c reworked": 40,
+            "process c fpy": 0.921280276816609,
+            "output": 2170
+        },
+        "2020-11-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 44,
+            "process a fpy": 0.8566666666666667,
+            "process b input": 2100,
+            "process b reworked": 119,
+            "process b fpy": 0.8752380952380953,
+            "process c input": 1957,
+            "process c reworked": 51,
+            "process c fpy": 0.9657639243740419,
+            "output": 1941
+        },
+        "2020-11-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 200,
+            "process a fpy": 0.9125,
+            "process b input": 2390,
+            "process b reworked": 198,
+            "process b fpy": 0.8594142259414226,
+            "process c input": 2252,
+            "process c reworked": 93,
+            "process c fpy": 0.9387211367673179,
+            "output": 2207
+        },
+        "2020-11-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 250,
+            "process a fpy": 0.8733333333333333,
+            "process b input": 2346,
+            "process b reworked": 115,
+            "process b fpy": 0.9458653026427962,
+            "process c input": 2334,
+            "process c reworked": 88,
+            "process c fpy": 0.9592973436161096,
+            "output": 2327
+        },
+        "2020-11-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 44,
+            "process a fpy": 0.9779166666666667,
+            "process b input": 2391,
+            "process b reworked": 109,
+            "process b fpy": 0.8682559598494354,
+            "process c input": 2185,
+            "process c reworked": 1,
+            "process c fpy": 0.9881006864988559,
+            "output": 2160
+        },
+        "2020-11-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 5,
+            "process a fpy": 0.95,
+            "process b input": 2285,
+            "process b reworked": 115,
+            "process b fpy": 0.9133479212253829,
+            "process c input": 2202,
+            "process c reworked": 0,
+            "process c fpy": 0.9995458673932789,
+            "output": 2201
+        },
+        "2020-11-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 210,
+            "process a fpy": 0.8654166666666666,
+            "process b input": 2287,
+            "process b reworked": 64,
+            "process b fpy": 0.9711412330564058,
+            "process c input": 2285,
+            "process c reworked": 9,
+            "process c fpy": 0.9943107221006564,
+            "output": 2281
+        },
+        "2020-11-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 64,
+            "process a fpy": 0.8720833333333333,
+            "process b input": 2157,
+            "process b reworked": 33,
+            "process b fpy": 0.9522484932777006,
+            "process c input": 2087,
+            "process c reworked": 107,
+            "process c fpy": 0.9262098706276952,
+            "output": 2040
+        },
+        "2020-11-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 199,
+            "process a fpy": 0.8770833333333333,
+            "process b input": 2304,
+            "process b reworked": 22,
+            "process b fpy": 0.8984375,
+            "process c input": 2092,
+            "process c reworked": 28,
+            "process c fpy": 0.9603250478011472,
+            "output": 2037
+        },
+        "2020-11-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 134,
+            "process a fpy": 0.9383333333333334,
+            "process b input": 2386,
+            "process b reworked": 113,
+            "process b fpy": 0.9249790444258172,
+            "process c input": 2320,
+            "process c reworked": 142,
+            "process c fpy": 0.9038793103448276,
+            "output": 2239
+        },
+        "2020-11-29": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 0,
+            "process a fpy": 0.96375,
+            "process b input": 2313,
+            "process b reworked": 321,
+            "process b fpy": 0.8110678772157371,
+            "process c input": 2197,
+            "process c reworked": 18,
+            "process c fpy": 0.9640418752844788,
+            "output": 2136
+        },
+        "2020-11-30": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 1,
+            "process a fpy": 0.9833333333333333,
+            "process b input": 2361,
+            "process b reworked": 3,
+            "process b fpy": 0.9339263024142312,
+            "process c input": 2208,
+            "process c reworked": 73,
+            "process c fpy": 0.9189311594202898,
+            "output": 2102
+        },
+        "2020-12-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 180,
+            "process a fpy": 0.86875,
+            "process b input": 2265,
+            "process b reworked": 36,
+            "process b fpy": 0.9306843267108168,
+            "process c input": 2144,
+            "process c reworked": 9,
+            "process c fpy": 0.9897388059701493,
+            "output": 2131
+        },
+        "2020-12-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 30,
+            "process a fpy": 0.97875,
+            "process b input": 2379,
+            "process b reworked": 131,
+            "process b fpy": 0.9382093316519546,
+            "process c input": 2363,
+            "process c reworked": 13,
+            "process c fpy": 0.9691070672873466,
+            "output": 2303
+        },
+        "2020-12-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 22,
+            "process a fpy": 0.86875,
+            "process b input": 2107,
+            "process b reworked": 7,
+            "process b fpy": 0.9928808732795443,
+            "process c input": 2099,
+            "process c reworked": 84,
+            "process c fpy": 0.9032872796569795,
+            "output": 1980
+        },
+        "2020-12-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 79,
+            "process a fpy": 0.935,
+            "process b input": 2323,
+            "process b reworked": 374,
+            "process b fpy": 0.8260869565217391,
+            "process c input": 2293,
+            "process c reworked": 29,
+            "process c fpy": 0.9472307021369385,
+            "output": 2201
+        },
+        "2020-12-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 37,
+            "process a fpy": 0.9820833333333333,
+            "process b input": 2394,
+            "process b reworked": 42,
+            "process b fpy": 0.8717627401837929,
+            "process c input": 2129,
+            "process c reworked": 9,
+            "process c fpy": 0.9121653358384217,
+            "output": 1951
+        },
+        "2020-12-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 114,
+            "process a fpy": 0.90125,
+            "process b input": 2277,
+            "process b reworked": 178,
+            "process b fpy": 0.8906455862977603,
+            "process c input": 2206,
+            "process c reworked": 142,
+            "process c fpy": 0.9061650045330916,
+            "output": 2141
+        },
+        "2020-12-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 93,
+            "process a fpy": 0.93375,
+            "process b input": 2334,
+            "process b reworked": 150,
+            "process b fpy": 0.8251928020565553,
+            "process c input": 2076,
+            "process c reworked": 4,
+            "process c fpy": 0.9113680154142582,
+            "output": 1896
+        },
+        "2020-12-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 89,
+            "process a fpy": 0.9575,
+            "process b input": 2387,
+            "process b reworked": 6,
+            "process b fpy": 0.9886887306242145,
+            "process c input": 2366,
+            "process c reworked": 16,
+            "process c fpy": 0.9873203719357565,
+            "output": 2352
+        },
+        "2020-12-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 153,
+            "process a fpy": 0.9008333333333334,
+            "process b input": 2315,
+            "process b reworked": 58,
+            "process b fpy": 0.9274298056155508,
+            "process c input": 2205,
+            "process c reworked": 10,
+            "process c fpy": 0.9809523809523809,
+            "output": 2173
+        },
+        "2020-12-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 62,
+            "process a fpy": 0.8570833333333333,
+            "process b input": 2119,
+            "process b reworked": 68,
+            "process b fpy": 0.8655025955639453,
+            "process c input": 1902,
+            "process c reworked": 75,
+            "process c fpy": 0.9379600420609885,
+            "output": 1859
+        },
+        "2020-12-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 15,
+            "process a fpy": 0.8520833333333333,
+            "process b input": 2060,
+            "process b reworked": 203,
+            "process b fpy": 0.8766990291262136,
+            "process c input": 2009,
+            "process c reworked": 41,
+            "process c fpy": 0.9746142359382778,
+            "output": 1999
+        },
+        "2020-12-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 102,
+            "process a fpy": 0.9533333333333334,
+            "process b input": 2390,
+            "process b reworked": 52,
+            "process b fpy": 0.9108786610878661,
+            "process c input": 2229,
+            "process c reworked": 24,
+            "process c fpy": 0.9484073575594437,
+            "output": 2138
+        },
+        "2020-12-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 40,
+            "process a fpy": 0.9645833333333333,
+            "process b input": 2355,
+            "process b reworked": 227,
+            "process b fpy": 0.859447983014862,
+            "process c input": 2251,
+            "process c reworked": 52,
+            "process c fpy": 0.9515770768547313,
+            "output": 2194
+        },
+        "2020-12-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 105,
+            "process a fpy": 0.9208333333333333,
+            "process b input": 2315,
+            "process b reworked": 76,
+            "process b fpy": 0.9650107991360691,
+            "process c input": 2310,
+            "process c reworked": 167,
+            "process c fpy": 0.906060606060606,
+            "output": 2260
+        },
+        "2020-12-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 28,
+            "process a fpy": 0.9716666666666667,
+            "process b input": 2360,
+            "process b reworked": 187,
+            "process b fpy": 0.8906779661016949,
+            "process c input": 2289,
+            "process c reworked": 23,
+            "process c fpy": 0.9493228484054173,
+            "output": 2196
+        },
+        "2020-12-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 132,
+            "process a fpy": 0.8791666666666667,
+            "process b input": 2242,
+            "process b reworked": 67,
+            "process b fpy": 0.8840321141837645,
+            "process c input": 2049,
+            "process c reworked": 129,
+            "process c fpy": 0.9165446559297218,
+            "output": 2007
+        },
+        "2020-12-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 51,
+            "process a fpy": 0.8695833333333334,
+            "process b input": 2138,
+            "process b reworked": 2,
+            "process b fpy": 0.9953227315247896,
+            "process c input": 2130,
+            "process c reworked": 39,
+            "process c fpy": 0.9605633802816902,
+            "output": 2085
+        },
+        "2020-12-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 161,
+            "process a fpy": 0.8929166666666667,
+            "process b input": 2304,
+            "process b reworked": 195,
+            "process b fpy": 0.9079861111111112,
+            "process c input": 2287,
+            "process c reworked": 23,
+            "process c fpy": 0.9641451683428072,
+            "output": 2228
+        },
+        "2020-12-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 12,
+            "process a fpy": 0.9391666666666667,
+            "process b input": 2266,
+            "process b reworked": 162,
+            "process b fpy": 0.8645189761694616,
+            "process c input": 2121,
+            "process c reworked": 90,
+            "process c fpy": 0.9566242338519566,
+            "output": 2119
+        },
+        "2020-12-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 310,
+            "process a fpy": 0.8554166666666667,
+            "process b input": 2363,
+            "process b reworked": 10,
+            "process b fpy": 0.8954718578078713,
+            "process c input": 2126,
+            "process c reworked": 74,
+            "process c fpy": 0.9374412041392286,
+            "output": 2067
+        },
+        "2020-12-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 107,
+            "process a fpy": 0.8816666666666667,
+            "process b input": 2223,
+            "process b reworked": 99,
+            "process b fpy": 0.8785425101214575,
+            "process c input": 2052,
+            "process c reworked": 155,
+            "process c fpy": 0.922514619883041,
+            "output": 2048
+        },
+        "2020-12-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 53,
+            "process a fpy": 0.97625,
+            "process b input": 2396,
+            "process b reworked": 52,
+            "process b fpy": 0.8756260434056762,
+            "process c input": 2150,
+            "process c reworked": 54,
+            "process c fpy": 0.935813953488372,
+            "output": 2066
+        },
+        "2020-12-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 163,
+            "process a fpy": 0.90625,
+            "process b input": 2338,
+            "process b reworked": 13,
+            "process b fpy": 0.9888793840889649,
+            "process c input": 2325,
+            "process c reworked": 6,
+            "process c fpy": 0.9509677419354838,
+            "output": 2217
+        },
+        "2020-12-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 66,
+            "process a fpy": 0.96,
+            "process b input": 2370,
+            "process b reworked": 42,
+            "process b fpy": 0.8818565400843882,
+            "process c input": 2132,
+            "process c reworked": 54,
+            "process c fpy": 0.9376172607879925,
+            "output": 2053
+        },
+        "2020-12-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 1,
+            "process a fpy": 0.99875,
+            "process b input": 2398,
+            "process b reworked": 36,
+            "process b fpy": 0.8957464553794829,
+            "process c input": 2184,
+            "process c reworked": 3,
+            "process c fpy": 0.956959706959707,
+            "output": 2093
+        },
+        "2020-12-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 11,
+            "process a fpy": 0.9895833333333334,
+            "process b input": 2386,
+            "process b reworked": 137,
+            "process b fpy": 0.8968985750209556,
+            "process c input": 2277,
+            "process c reworked": 161,
+            "process c fpy": 0.927536231884058,
+            "output": 2273
+        },
+        "2020-12-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 20,
+            "process a fpy": 0.9675,
+            "process b input": 2342,
+            "process b reworked": 24,
+            "process b fpy": 0.9496157130657558,
+            "process c input": 2248,
+            "process c reworked": 13,
+            "process c fpy": 0.9897686832740213,
+            "output": 2238
+        },
+        "2020-12-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 118,
+            "process a fpy": 0.915,
+            "process b input": 2314,
+            "process b reworked": 146,
+            "process b fpy": 0.9066551426101987,
+            "process c input": 2244,
+            "process c reworked": 133,
+            "process c fpy": 0.9055258467023173,
+            "output": 2165
+        },
+        "2020-12-29": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.97375,
+            "process b input": 2339,
+            "process b reworked": 24,
+            "process b fpy": 0.9529713552800342,
+            "process c input": 2253,
+            "process c reworked": 66,
+            "process c fpy": 0.941855304039059,
+            "output": 2188
+        },
+        "2020-12-30": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 90,
+            "process a fpy": 0.9504166666666667,
+            "process b input": 2371,
+            "process b reworked": 21,
+            "process b fpy": 0.9839730071699705,
+            "process c input": 2354,
+            "process c reworked": 31,
+            "process c fpy": 0.9787595581988106,
+            "output": 2335
+        },
+        "2020-12-31": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 115,
+            "process a fpy": 0.9475,
+            "process b input": 2389,
+            "process b reworked": 350,
+            "process b fpy": 0.8472164085391377,
+            "process c input": 2374,
+            "process c reworked": 19,
+            "process c fpy": 0.9734625105307498,
+            "output": 2330
+        },
+        "2021-01-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 173,
+            "process a fpy": 0.8716666666666667,
+            "process b input": 2265,
+            "process b reworked": 138,
+            "process b fpy": 0.8688741721854305,
+            "process c input": 2106,
+            "process c reworked": 39,
+            "process c fpy": 0.9311490978157645,
+            "output": 2000
+        },
+        "2021-01-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 218,
+            "process a fpy": 0.8616666666666667,
+            "process b input": 2286,
+            "process b reworked": 284,
+            "process b fpy": 0.8346456692913385,
+            "process c input": 2192,
+            "process c reworked": 25,
+            "process c fpy": 0.979470802919708,
+            "output": 2172
+        },
+        "2021-01-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 154,
+            "process a fpy": 0.88125,
+            "process b input": 2269,
+            "process b reworked": 356,
+            "process b fpy": 0.8298810048479507,
+            "process c input": 2239,
+            "process c reworked": 68,
+            "process c fpy": 0.9423849933005806,
+            "output": 2178
+        },
+        "2021-01-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 67,
+            "process a fpy": 0.9520833333333333,
+            "process b input": 2352,
+            "process b reworked": 16,
+            "process b fpy": 0.9804421768707483,
+            "process c input": 2322,
+            "process c reworked": 72,
+            "process c fpy": 0.9633936261843239,
+            "output": 2309
+        },
+        "2021-01-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 12,
+            "process a fpy": 0.9154166666666667,
+            "process b input": 2209,
+            "process b reworked": 48,
+            "process b fpy": 0.9547306473517428,
+            "process c input": 2157,
+            "process c reworked": 44,
+            "process c fpy": 0.9559573481687529,
+            "output": 2106
+        },
+        "2021-01-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 336,
+            "process a fpy": 0.8566666666666667,
+            "process b input": 2392,
+            "process b reworked": 16,
+            "process b fpy": 0.9874581939799331,
+            "process c input": 2378,
+            "process c reworked": 116,
+            "process c fpy": 0.9339781328847772,
+            "output": 2337
+        },
+        "2021-01-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 145,
+            "process a fpy": 0.8545833333333334,
+            "process b input": 2196,
+            "process b reworked": 187,
+            "process b fpy": 0.8642987249544627,
+            "process c input": 2085,
+            "process c reworked": 36,
+            "process c fpy": 0.9333333333333333,
+            "output": 1982
+        },
+        "2021-01-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 164,
+            "process a fpy": 0.8504166666666667,
+            "process b input": 2205,
+            "process b reworked": 2,
+            "process b fpy": 0.9977324263038548,
+            "process c input": 2202,
+            "process c reworked": 6,
+            "process c fpy": 0.9950045413260672,
+            "output": 2197
+        },
+        "2021-01-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 152,
+            "process a fpy": 0.9325,
+            "process b input": 2390,
+            "process b reworked": 161,
+            "process b fpy": 0.9225941422594143,
+            "process c input": 2366,
+            "process c reworked": 50,
+            "process c fpy": 0.9737954353338969,
+            "output": 2354
+        },
+        "2021-01-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 4,
+            "process a fpy": 0.9979166666666667,
+            "process b input": 2399,
+            "process b reworked": 376,
+            "process b fpy": 0.8082534389328887,
+            "process c input": 2315,
+            "process c reworked": 146,
+            "process c fpy": 0.9308855291576674,
+            "output": 2301
+        },
+        "2021-01-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 157,
+            "process a fpy": 0.89625,
+            "process b input": 2308,
+            "process b reworked": 0,
+            "process b fpy": 0.9272097053726169,
+            "process c input": 2140,
+            "process c reworked": 60,
+            "process c fpy": 0.9401869158878504,
+            "output": 2072
+        },
+        "2021-01-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 63,
+            "process a fpy": 0.9616666666666667,
+            "process b input": 2371,
+            "process b reworked": 71,
+            "process b fpy": 0.8334036271615353,
+            "process c input": 2047,
+            "process c reworked": 9,
+            "process c fpy": 0.9819247679531021,
+            "output": 2019
+        },
+        "2021-01-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 29,
+            "process a fpy": 0.9716666666666667,
+            "process b input": 2361,
+            "process b reworked": 113,
+            "process b fpy": 0.9284201609487506,
+            "process c input": 2305,
+            "process c reworked": 48,
+            "process c fpy": 0.9704989154013015,
+            "output": 2285
+        },
+        "2021-01-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 83,
+            "process a fpy": 0.9016666666666666,
+            "process b input": 2247,
+            "process b reworked": 275,
+            "process b fpy": 0.8455718736092568,
+            "process c input": 2175,
+            "process c reworked": 15,
+            "process c fpy": 0.9333333333333333,
+            "output": 2045
+        },
+        "2021-01-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 76,
+            "process a fpy": 0.8883333333333333,
+            "process b input": 2208,
+            "process b reworked": 89,
+            "process b fpy": 0.9035326086956522,
+            "process c input": 2084,
+            "process c reworked": 89,
+            "process c fpy": 0.9390595009596929,
+            "output": 2046
+        },
+        "2021-01-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 142,
+            "process a fpy": 0.8979166666666667,
+            "process b input": 2297,
+            "process b reworked": 10,
+            "process b fpy": 0.9647366129734436,
+            "process c input": 2226,
+            "process c reworked": 112,
+            "process c fpy": 0.9407008086253369,
+            "output": 2206
+        },
+        "2021-01-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 190,
+            "process a fpy": 0.9133333333333333,
+            "process b input": 2382,
+            "process b reworked": 469,
+            "process b fpy": 0.8014273719563392,
+            "process c input": 2378,
+            "process c reworked": 138,
+            "process c fpy": 0.9209419680403701,
+            "output": 2328
+        },
+        "2021-01-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 7,
+            "process a fpy": 0.9720833333333333,
+            "process b input": 2340,
+            "process b reworked": 243,
+            "process b fpy": 0.8645299145299146,
+            "process c input": 2266,
+            "process c reworked": 4,
+            "process c fpy": 0.9849955869373345,
+            "output": 2236
+        },
+        "2021-01-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 63,
+            "process a fpy": 0.9533333333333334,
+            "process b input": 2351,
+            "process b reworked": 5,
+            "process b fpy": 0.9234368353891961,
+            "process c input": 2176,
+            "process c reworked": 147,
+            "process c fpy": 0.9186580882352942,
+            "output": 2146
+        },
+        "2021-01-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 50,
+            "process a fpy": 0.8575,
+            "process b input": 2108,
+            "process b reworked": 33,
+            "process b fpy": 0.8956356736242884,
+            "process c input": 1921,
+            "process c reworked": 15,
+            "process c fpy": 0.9640812077043207,
+            "output": 1867
+        },
+        "2021-01-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 17,
+            "process a fpy": 0.9883333333333333,
+            "process b input": 2389,
+            "process b reworked": 72,
+            "process b fpy": 0.8480535789033068,
+            "process c input": 2098,
+            "process c reworked": 118,
+            "process c fpy": 0.9346997140133461,
+            "output": 2079
+        },
+        "2021-01-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 185,
+            "process a fpy": 0.8808333333333334,
+            "process b input": 2299,
+            "process b reworked": 115,
+            "process b fpy": 0.8734232274902132,
+            "process c input": 2123,
+            "process c reworked": 9,
+            "process c fpy": 0.9934055581723975,
+            "output": 2118
+        },
+        "2021-01-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 118,
+            "process a fpy": 0.8504166666666667,
+            "process b input": 2159,
+            "process b reworked": 80,
+            "process b fpy": 0.9203334877257989,
+            "process c input": 2067,
+            "process c reworked": 146,
+            "process c fpy": 0.9240445089501693,
+            "output": 2056
+        },
+        "2021-01-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 12,
+            "process a fpy": 0.9858333333333333,
+            "process b input": 2378,
+            "process b reworked": 31,
+            "process b fpy": 0.8624894869638352,
+            "process c input": 2082,
+            "process c reworked": 30,
+            "process c fpy": 0.9831892411143132,
+            "output": 2077
+        },
+        "2021-01-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 45,
+            "process a fpy": 0.97125,
+            "process b input": 2376,
+            "process b reworked": 69,
+            "process b fpy": 0.8089225589225589,
+            "process c input": 1991,
+            "process c reworked": 1,
+            "process c fpy": 0.9974886991461577,
+            "output": 1987
+        },
+        "2021-01-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 0,
+            "process a fpy": 0.9991666666666666,
+            "process b input": 2398,
+            "process b reworked": 340,
+            "process b fpy": 0.8427856547122602,
+            "process c input": 2361,
+            "process c reworked": 111,
+            "process c fpy": 0.9203727234222787,
+            "output": 2284
+        },
+        "2021-01-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 8,
+            "process a fpy": 0.8933333333333333,
+            "process b input": 2152,
+            "process b reworked": 37,
+            "process b fpy": 0.9804832713754646,
+            "process c input": 2147,
+            "process c reworked": 92,
+            "process c fpy": 0.9455053563111319,
+            "output": 2122
+        },
+        "2021-01-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 62,
+            "process a fpy": 0.9320833333333334,
+            "process b input": 2299,
+            "process b reworked": 167,
+            "process b fpy": 0.8033927794693345,
+            "process c input": 2014,
+            "process c reworked": 8,
+            "process c fpy": 0.9851042701092354,
+            "output": 1992
+        },
+        "2021-01-29": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 67,
+            "process a fpy": 0.89,
+            "process b input": 2203,
+            "process b reworked": 212,
+            "process b fpy": 0.8756241488878802,
+            "process c input": 2141,
+            "process c reworked": 2,
+            "process c fpy": 0.9967304997664642,
+            "output": 2136
+        },
+        "2021-01-30": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 40,
+            "process a fpy": 0.9570833333333333,
+            "process b input": 2337,
+            "process b reworked": 268,
+            "process b fpy": 0.8827556696619597,
+            "process c input": 2331,
+            "process c reworked": 153,
+            "process c fpy": 0.9335049335049335,
+            "output": 2329
+        },
+        "2021-01-31": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 159,
+            "process a fpy": 0.9145833333333333,
+            "process b input": 2354,
+            "process b reworked": 4,
+            "process b fpy": 0.9957519116397621,
+            "process c input": 2348,
+            "process c reworked": 135,
+            "process c fpy": 0.9101362862010222,
+            "output": 2272
+        },
+        "2021-02-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9954166666666666,
+            "process b input": 2391,
+            "process b reworked": 25,
+            "process b fpy": 0.9828523630280217,
+            "process c input": 2375,
+            "process c reworked": 64,
+            "process c fpy": 0.9103157894736842,
+            "output": 2226
+        },
+        "2021-02-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 172,
+            "process a fpy": 0.9191666666666667,
+            "process b input": 2378,
+            "process b reworked": 19,
+            "process b fpy": 0.9697224558452481,
+            "process c input": 2325,
+            "process c reworked": 50,
+            "process c fpy": 0.956989247311828,
+            "output": 2275
+        },
+        "2021-02-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 49,
+            "process a fpy": 0.92125,
+            "process b input": 2260,
+            "process b reworked": 58,
+            "process b fpy": 0.8119469026548672,
+            "process c input": 1893,
+            "process c reworked": 44,
+            "process c fpy": 0.9408346539883783,
+            "output": 1825
+        },
+        "2021-02-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 173,
+            "process a fpy": 0.8533333333333334,
+            "process b input": 2221,
+            "process b reworked": 151,
+            "process b fpy": 0.9221071589374156,
+            "process c input": 2199,
+            "process c reworked": 11,
+            "process c fpy": 0.9940882219190541,
+            "output": 2197
+        },
+        "2021-02-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 159,
+            "process a fpy": 0.875,
+            "process b input": 2259,
+            "process b reworked": 44,
+            "process b fpy": 0.9300575475874281,
+            "process c input": 2145,
+            "process c reworked": 94,
+            "process c fpy": 0.9230769230769231,
+            "output": 2074
+        },
+        "2021-02-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 102,
+            "process a fpy": 0.9041666666666667,
+            "process b input": 2272,
+            "process b reworked": 164,
+            "process b fpy": 0.8965669014084507,
+            "process c input": 2201,
+            "process c reworked": 10,
+            "process c fpy": 0.9809177646524307,
+            "output": 2169
+        },
+        "2021-02-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 218,
+            "process a fpy": 0.8779166666666667,
+            "process b input": 2325,
+            "process b reworked": 0,
+            "process b fpy": 0.9991397849462366,
+            "process c input": 2323,
+            "process c reworked": 70,
+            "process c fpy": 0.9655617735686612,
+            "output": 2313
+        },
+        "2021-02-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 23,
+            "process a fpy": 0.9879166666666667,
+            "process b input": 2394,
+            "process b reworked": 23,
+            "process b fpy": 0.9899749373433584,
+            "process c input": 2393,
+            "process c reworked": 31,
+            "process c fpy": 0.9770162975344756,
+            "output": 2369
+        },
+        "2021-02-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 248,
+            "process a fpy": 0.8679166666666667,
+            "process b input": 2331,
+            "process b reworked": 174,
+            "process b fpy": 0.8056628056628057,
+            "process c input": 2052,
+            "process c reworked": 11,
+            "process c fpy": 0.949317738791423,
+            "output": 1959
+        },
+        "2021-02-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 150,
+            "process a fpy": 0.8879166666666667,
+            "process b input": 2281,
+            "process b reworked": 11,
+            "process b fpy": 0.9710653222270934,
+            "process c input": 2226,
+            "process c reworked": 105,
+            "process c fpy": 0.9375561545372866,
+            "output": 2192
+        },
+        "2021-02-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 176,
+            "process a fpy": 0.8529166666666667,
+            "process b input": 2223,
+            "process b reworked": 5,
+            "process b fpy": 0.9739091318038686,
+            "process c input": 2170,
+            "process c reworked": 5,
+            "process c fpy": 0.9811059907834101,
+            "output": 2134
+        },
+        "2021-02-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 197,
+            "process a fpy": 0.8925,
+            "process b input": 2339,
+            "process b reworked": 355,
+            "process b fpy": 0.8255664814023087,
+            "process c input": 2286,
+            "process c reworked": 17,
+            "process c fpy": 0.9873140857392826,
+            "output": 2274
+        },
+        "2021-02-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 99,
+            "process a fpy": 0.9466666666666667,
+            "process b input": 2371,
+            "process b reworked": 318,
+            "process b fpy": 0.8439477013918179,
+            "process c input": 2319,
+            "process c reworked": 14,
+            "process c fpy": 0.9870633893919794,
+            "output": 2303
+        },
+        "2021-02-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 8,
+            "process a fpy": 0.9554166666666667,
+            "process b input": 2301,
+            "process b reworked": 0,
+            "process b fpy": 0.9991308126901347,
+            "process c input": 2299,
+            "process c reworked": 62,
+            "process c fpy": 0.9451935624184428,
+            "output": 2235
+        },
+        "2021-02-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 271,
+            "process a fpy": 0.875,
+            "process b input": 2371,
+            "process b reworked": 152,
+            "process b fpy": 0.9261914803880219,
+            "process c input": 2348,
+            "process c reworked": 18,
+            "process c fpy": 0.959114139693356,
+            "output": 2270
+        },
+        "2021-02-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 170,
+            "process a fpy": 0.9029166666666667,
+            "process b input": 2337,
+            "process b reworked": 164,
+            "process b fpy": 0.8771929824561403,
+            "process c input": 2214,
+            "process c reworked": 1,
+            "process c fpy": 0.985546522131888,
+            "output": 2183
+        },
+        "2021-02-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 172,
+            "process a fpy": 0.8958333333333334,
+            "process b input": 2322,
+            "process b reworked": 128,
+            "process b fpy": 0.8604651162790697,
+            "process c input": 2126,
+            "process c reworked": 93,
+            "process c fpy": 0.9468485418626529,
+            "output": 2106
+        },
+        "2021-02-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 4,
+            "process a fpy": 0.89625,
+            "process b input": 2155,
+            "process b reworked": 203,
+            "process b fpy": 0.9025522041763341,
+            "process c input": 2148,
+            "process c reworked": 32,
+            "process c fpy": 0.972998137802607,
+            "output": 2122
+        },
+        "2021-02-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 227,
+            "process a fpy": 0.87625,
+            "process b input": 2330,
+            "process b reworked": 37,
+            "process b fpy": 0.8510729613733906,
+            "process c input": 2020,
+            "process c reworked": 82,
+            "process c fpy": 0.9435643564356435,
+            "output": 1988
+        },
+        "2021-02-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 205,
+            "process a fpy": 0.895,
+            "process b input": 2353,
+            "process b reworked": 2,
+            "process b fpy": 0.9783255418614535,
+            "process c input": 2304,
+            "process c reworked": 89,
+            "process c fpy": 0.9513888888888888,
+            "output": 2281
+        },
+        "2021-02-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 79,
+            "process a fpy": 0.9270833333333334,
+            "process b input": 2304,
+            "process b reworked": 54,
+            "process b fpy": 0.8216145833333334,
+            "process c input": 1947,
+            "process c reworked": 5,
+            "process c fpy": 0.9964047252182845,
+            "output": 1945
+        },
+        "2021-02-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 35,
+            "process a fpy": 0.96,
+            "process b input": 2339,
+            "process b reworked": 22,
+            "process b fpy": 0.9816160752458315,
+            "process c input": 2318,
+            "process c reworked": 13,
+            "process c fpy": 0.9594477998274374,
+            "output": 2237
+        },
+        "2021-02-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 127,
+            "process a fpy": 0.9216666666666666,
+            "process b input": 2339,
+            "process b reworked": 39,
+            "process b fpy": 0.9752030782385634,
+            "process c input": 2320,
+            "process c reworked": 14,
+            "process c fpy": 0.9573275862068965,
+            "output": 2235
+        },
+        "2021-02-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9979166666666667,
+            "process b input": 2397,
+            "process b reworked": 37,
+            "process b fpy": 0.9357530246141009,
+            "process c input": 2280,
+            "process c reworked": 3,
+            "process c fpy": 0.9973684210526316,
+            "output": 2277
+        },
+        "2021-02-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 12,
+            "process a fpy": 0.9441666666666667,
+            "process b input": 2278,
+            "process b reworked": 146,
+            "process b fpy": 0.8143107989464442,
+            "process c input": 2001,
+            "process c reworked": 0,
+            "process c fpy": 0.968015992003998,
+            "output": 1937
+        },
+        "2021-02-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 62,
+            "process a fpy": 0.86875,
+            "process b input": 2147,
+            "process b reworked": 374,
+            "process b fpy": 0.8127619934792734,
+            "process c input": 2119,
+            "process c reworked": 2,
+            "process c fpy": 0.9976403964134025,
+            "output": 2116
+        },
+        "2021-02-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 3,
+            "process a fpy": 0.9920833333333333,
+            "process b input": 2384,
+            "process b reworked": 176,
+            "process b fpy": 0.8024328859060402,
+            "process c input": 2089,
+            "process c reworked": 33,
+            "process c fpy": 0.9617041646720919,
+            "output": 2042
+        },
+        "2021-02-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 20,
+            "process a fpy": 0.99125,
+            "process b input": 2399,
+            "process b reworked": 170,
+            "process b fpy": 0.8411838265944144,
+            "process c input": 2188,
+            "process c reworked": 29,
+            "process c fpy": 0.9780621572212066,
+            "output": 2169
+        },
+        "2021-03-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 76,
+            "process a fpy": 0.9533333333333334,
+            "process b input": 2364,
+            "process b reworked": 84,
+            "process b fpy": 0.9593908629441624,
+            "process c input": 2352,
+            "process c reworked": 9,
+            "process c fpy": 0.9098639455782312,
+            "output": 2149
+        },
+        "2021-03-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 4,
+            "process a fpy": 0.99625,
+            "process b input": 2395,
+            "process b reworked": 107,
+            "process b fpy": 0.925678496868476,
+            "process c input": 2324,
+            "process c reworked": 144,
+            "process c fpy": 0.9259896729776248,
+            "output": 2296
+        },
+        "2021-03-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 9,
+            "process a fpy": 0.8758333333333334,
+            "process b input": 2111,
+            "process b reworked": 83,
+            "process b fpy": 0.8327806726669825,
+            "process c input": 1841,
+            "process c reworked": 43,
+            "process c fpy": 0.9266702878870179,
+            "output": 1749
+        },
+        "2021-03-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 50,
+            "process a fpy": 0.91875,
+            "process b input": 2255,
+            "process b reworked": 15,
+            "process b fpy": 0.9232815964523282,
+            "process c input": 2097,
+            "process c reworked": 11,
+            "process c fpy": 0.9260848831664282,
+            "output": 1953
+        },
+        "2021-03-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 275,
+            "process a fpy": 0.8679166666666667,
+            "process b input": 2358,
+            "process b reworked": 248,
+            "process b fpy": 0.8532654792196777,
+            "process c input": 2260,
+            "process c reworked": 157,
+            "process c fpy": 0.9203539823008849,
+            "output": 2237
+        },
+        "2021-03-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 22,
+            "process a fpy": 0.94625,
+            "process b input": 2293,
+            "process b reworked": 26,
+            "process b fpy": 0.8320976886175316,
+            "process c input": 1934,
+            "process c reworked": 156,
+            "process c fpy": 0.9048603929679421,
+            "output": 1906
+        },
+        "2021-03-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 7,
+            "process a fpy": 0.9841666666666666,
+            "process b input": 2369,
+            "process b reworked": 143,
+            "process b fpy": 0.8961587167581258,
+            "process c input": 2266,
+            "process c reworked": 30,
+            "process c fpy": 0.9832303618711385,
+            "output": 2258
+        },
+        "2021-03-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 44,
+            "process a fpy": 0.9054166666666666,
+            "process b input": 2217,
+            "process b reworked": 136,
+            "process b fpy": 0.9111411817771764,
+            "process c input": 2156,
+            "process c reworked": 124,
+            "process c fpy": 0.9257884972170687,
+            "output": 2120
+        },
+        "2021-03-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 116,
+            "process a fpy": 0.85875,
+            "process b input": 2177,
+            "process b reworked": 113,
+            "process b fpy": 0.9196141479099679,
+            "process c input": 2115,
+            "process c reworked": 125,
+            "process c fpy": 0.9309692671394799,
+            "output": 2094
+        },
+        "2021-03-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 76,
+            "process a fpy": 0.9483333333333334,
+            "process b input": 2352,
+            "process b reworked": 152,
+            "process b fpy": 0.9145408163265306,
+            "process c input": 2303,
+            "process c reworked": 21,
+            "process c fpy": 0.9539730785931394,
+            "output": 2218
+        },
+        "2021-03-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 98,
+            "process a fpy": 0.9583333333333334,
+            "process b input": 2398,
+            "process b reworked": 37,
+            "process b fpy": 0.8440366972477065,
+            "process c input": 2061,
+            "process c reworked": 101,
+            "process c fpy": 0.901018922852984,
+            "output": 1958
+        },
+        "2021-03-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 24,
+            "process a fpy": 0.9433333333333334,
+            "process b input": 2288,
+            "process b reworked": 20,
+            "process b fpy": 0.978583916083916,
+            "process c input": 2259,
+            "process c reworked": 12,
+            "process c fpy": 0.9034971226206286,
+            "output": 2053
+        },
+        "2021-03-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 23,
+            "process a fpy": 0.9704166666666667,
+            "process b input": 2352,
+            "process b reworked": 254,
+            "process b fpy": 0.8409863945578231,
+            "process c input": 2232,
+            "process c reworked": 47,
+            "process c fpy": 0.9377240143369175,
+            "output": 2140
+        },
+        "2021-03-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 134,
+            "process a fpy": 0.91,
+            "process b input": 2318,
+            "process b reworked": 221,
+            "process b fpy": 0.8930112165660051,
+            "process c input": 2291,
+            "process c reworked": 42,
+            "process c fpy": 0.9410737669140113,
+            "output": 2198
+        },
+        "2021-03-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9958333333333333,
+            "process b input": 2392,
+            "process b reworked": 78,
+            "process b fpy": 0.919732441471572,
+            "process c input": 2278,
+            "process c reworked": 155,
+            "process c fpy": 0.9315188762071993,
+            "output": 2277
+        },
+        "2021-03-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 63,
+            "process a fpy": 0.9075,
+            "process b input": 2241,
+            "process b reworked": 82,
+            "process b fpy": 0.9500223114680946,
+            "process c input": 2211,
+            "process c reworked": 151,
+            "process c fpy": 0.9172320217096337,
+            "output": 2179
+        },
+        "2021-03-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 132,
+            "process a fpy": 0.8583333333333333,
+            "process b input": 2192,
+            "process b reworked": 32,
+            "process b fpy": 0.947536496350365,
+            "process c input": 2109,
+            "process c reworked": 1,
+            "process c fpy": 0.9810336652441916,
+            "output": 2070
+        },
+        "2021-03-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 34,
+            "process a fpy": 0.90125,
+            "process b input": 2197,
+            "process b reworked": 209,
+            "process b fpy": 0.889849795175239,
+            "process c input": 2164,
+            "process c reworked": 10,
+            "process c fpy": 0.9764325323475046,
+            "output": 2123
+        },
+        "2021-03-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 21,
+            "process a fpy": 0.8779166666666667,
+            "process b input": 2128,
+            "process b reworked": 83,
+            "process b fpy": 0.8402255639097744,
+            "process c input": 1871,
+            "process c reworked": 68,
+            "process c fpy": 0.9551042223409941,
+            "output": 1855
+        },
+        "2021-03-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 5,
+            "process a fpy": 0.9466666666666667,
+            "process b input": 2277,
+            "process b reworked": 17,
+            "process b fpy": 0.922266139657444,
+            "process c input": 2117,
+            "process c reworked": 68,
+            "process c fpy": 0.9674067076051016,
+            "output": 2116
+        },
+        "2021-03-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 210,
+            "process a fpy": 0.8895833333333333,
+            "process b input": 2345,
+            "process b reworked": 119,
+            "process b fpy": 0.8371002132196163,
+            "process c input": 2082,
+            "process c reworked": 149,
+            "process c fpy": 0.9188280499519692,
+            "output": 2062
+        },
+        "2021-03-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 15,
+            "process a fpy": 0.8879166666666667,
+            "process b input": 2146,
+            "process b reworked": 32,
+            "process b fpy": 0.9123951537744641,
+            "process c input": 1990,
+            "process c reworked": 24,
+            "process c fpy": 0.9422110552763819,
+            "output": 1899
+        },
+        "2021-03-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 42,
+            "process a fpy": 0.9808333333333333,
+            "process b input": 2396,
+            "process b reworked": 212,
+            "process b fpy": 0.9090150250417363,
+            "process c input": 2390,
+            "process c reworked": 42,
+            "process c fpy": 0.9297071129707113,
+            "output": 2264
+        },
+        "2021-03-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 57,
+            "process a fpy": 0.95375,
+            "process b input": 2346,
+            "process b reworked": 245,
+            "process b fpy": 0.8188405797101449,
+            "process c input": 2166,
+            "process c reworked": 166,
+            "process c fpy": 0.9035087719298246,
+            "output": 2123
+        },
+        "2021-03-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 19,
+            "process a fpy": 0.9845833333333334,
+            "process b input": 2382,
+            "process b reworked": 27,
+            "process b fpy": 0.9609571788413098,
+            "process c input": 2316,
+            "process c reworked": 115,
+            "process c fpy": 0.9050086355785838,
+            "output": 2211
+        },
+        "2021-03-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 108,
+            "process a fpy": 0.8991666666666667,
+            "process b input": 2266,
+            "process b reworked": 182,
+            "process b fpy": 0.9095322153574581,
+            "process c input": 2243,
+            "process c reworked": 21,
+            "process c fpy": 0.9670084707980383,
+            "output": 2190
+        },
+        "2021-03-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 144,
+            "process a fpy": 0.9033333333333333,
+            "process b input": 2312,
+            "process b reworked": 5,
+            "process b fpy": 0.9645328719723183,
+            "process c input": 2235,
+            "process c reworked": 1,
+            "process c fpy": 0.9955257270693513,
+            "output": 2226
+        },
+        "2021-03-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 132,
+            "process a fpy": 0.8895833333333333,
+            "process b input": 2267,
+            "process b reworked": 105,
+            "process b fpy": 0.9073665637406264,
+            "process c input": 2162,
+            "process c reworked": 73,
+            "process c fpy": 0.9417206290471786,
+            "output": 2109
+        },
+        "2021-03-29": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 86,
+            "process a fpy": 0.8675,
+            "process b input": 2168,
+            "process b reworked": 62,
+            "process b fpy": 0.8214944649446494,
+            "process c input": 1843,
+            "process c reworked": 56,
+            "process c fpy": 0.9669017905588714,
+            "output": 1838
+        },
+        "2021-03-30": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 9,
+            "process a fpy": 0.9833333333333333,
+            "process b input": 2369,
+            "process b reworked": 152,
+            "process b fpy": 0.9117771211481638,
+            "process c input": 2312,
+            "process c reworked": 170,
+            "process c fpy": 0.902681660899654,
+            "output": 2257
+        },
+        "2021-03-31": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 90,
+            "process a fpy": 0.9133333333333333,
+            "process b input": 2282,
+            "process b reworked": 148,
+            "process b fpy": 0.9276950043821209,
+            "process c input": 2265,
+            "process c reworked": 47,
+            "process c fpy": 0.9501103752759382,
+            "output": 2199
+        },
+        "2021-04-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 204,
+            "process a fpy": 0.86,
+            "process b input": 2268,
+            "process b reworked": 23,
+            "process b fpy": 0.9682539682539683,
+            "process c input": 2219,
+            "process c reworked": 83,
+            "process c fpy": 0.9585398828301036,
+            "output": 2210
+        },
+        "2021-04-02": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 64,
+            "process a fpy": 0.9533333333333334,
+            "process b input": 2352,
+            "process b reworked": 211,
+            "process b fpy": 0.8601190476190477,
+            "process c input": 2234,
+            "process c reworked": 11,
+            "process c fpy": 0.9350940017905103,
+            "output": 2100
+        },
+        "2021-04-03": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 136,
+            "process a fpy": 0.9095833333333333,
+            "process b input": 2319,
+            "process b reworked": 117,
+            "process b fpy": 0.9361793876670979,
+            "process c input": 2288,
+            "process c reworked": 62,
+            "process c fpy": 0.9576048951048951,
+            "output": 2253
+        },
+        "2021-04-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 46,
+            "process a fpy": 0.9704166666666667,
+            "process b input": 2375,
+            "process b reworked": 66,
+            "process b fpy": 0.8631578947368421,
+            "process c input": 2116,
+            "process c reworked": 81,
+            "process c fpy": 0.9560491493383743,
+            "output": 2104
+        },
+        "2021-04-05": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 294,
+            "process a fpy": 0.8691666666666666,
+            "process b input": 2380,
+            "process b reworked": 264,
+            "process b fpy": 0.8273109243697478,
+            "process c input": 2233,
+            "process c reworked": 60,
+            "process c fpy": 0.9686520376175548,
+            "output": 2223
+        },
+        "2021-04-06": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 7,
+            "process a fpy": 0.9708333333333333,
+            "process b input": 2337,
+            "process b reworked": 30,
+            "process b fpy": 0.8562259306803595,
+            "process c input": 2031,
+            "process c reworked": 2,
+            "process c fpy": 0.9876907927129492,
+            "output": 2008
+        },
+        "2021-04-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 203,
+            "process a fpy": 0.9054166666666666,
+            "process b input": 2376,
+            "process b reworked": 130,
+            "process b fpy": 0.9044612794612794,
+            "process c input": 2279,
+            "process c reworked": 51,
+            "process c fpy": 0.9205792014041246,
+            "output": 2149
+        },
+        "2021-04-08": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 68,
+            "process a fpy": 0.8545833333333334,
+            "process b input": 2119,
+            "process b reworked": 21,
+            "process b fpy": 0.9126946672958943,
+            "process c input": 1955,
+            "process c reworked": 7,
+            "process c fpy": 0.9769820971867008,
+            "output": 1917
+        },
+        "2021-04-09": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 162,
+            "process a fpy": 0.87875,
+            "process b input": 2271,
+            "process b reworked": 45,
+            "process b fpy": 0.9674152355790401,
+            "process c input": 2242,
+            "process c reworked": 8,
+            "process c fpy": 0.9933095450490633,
+            "output": 2235
+        },
+        "2021-04-10": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 3,
+            "process a fpy": 0.9904166666666666,
+            "process b input": 2380,
+            "process b reworked": 184,
+            "process b fpy": 0.9,
+            "process c input": 2326,
+            "process c reworked": 71,
+            "process c fpy": 0.9660361134995701,
+            "output": 2318
+        },
+        "2021-04-11": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 207,
+            "process a fpy": 0.8554166666666667,
+            "process b input": 2260,
+            "process b reworked": 237,
+            "process b fpy": 0.8247787610619469,
+            "process c input": 2101,
+            "process c reworked": 26,
+            "process c fpy": 0.9671584959543075,
+            "output": 2058
+        },
+        "2021-04-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 166,
+            "process a fpy": 0.8845833333333334,
+            "process b input": 2289,
+            "process b reworked": 225,
+            "process b fpy": 0.8514635211882918,
+            "process c input": 2174,
+            "process c reworked": 23,
+            "process c fpy": 0.9673413063477461,
+            "output": 2126
+        },
+        "2021-04-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 82,
+            "process a fpy": 0.9566666666666667,
+            "process b input": 2378,
+            "process b reworked": 30,
+            "process b fpy": 0.9667788057190917,
+            "process c input": 2329,
+            "process c reworked": 55,
+            "process c fpy": 0.9497638471446973,
+            "output": 2267
+        },
+        "2021-04-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 251,
+            "process a fpy": 0.8829166666666667,
+            "process b input": 2370,
+            "process b reworked": 55,
+            "process b fpy": 0.8358649789029536,
+            "process c input": 2036,
+            "process c reworked": 61,
+            "process c fpy": 0.9430255402750491,
+            "output": 1981
+        },
+        "2021-04-15": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 81,
+            "process a fpy": 0.9658333333333333,
+            "process b input": 2399,
+            "process b reworked": 25,
+            "process b fpy": 0.9808253438932889,
+            "process c input": 2378,
+            "process c reworked": 89,
+            "process c fpy": 0.913372582001682,
+            "output": 2261
+        },
+        "2021-04-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 48,
+            "process a fpy": 0.8858333333333334,
+            "process b input": 2174,
+            "process b reworked": 44,
+            "process b fpy": 0.9650413983440662,
+            "process c input": 2142,
+            "process c reworked": 134,
+            "process c fpy": 0.9066293183940243,
+            "output": 2076
+        },
+        "2021-04-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 31,
+            "process a fpy": 0.98,
+            "process b input": 2383,
+            "process b reworked": 35,
+            "process b fpy": 0.8778850188837599,
+            "process c input": 2127,
+            "process c reworked": 67,
+            "process c fpy": 0.9440526563234602,
+            "output": 2075
+        },
+        "2021-04-18": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 106,
+            "process a fpy": 0.9020833333333333,
+            "process b input": 2271,
+            "process b reworked": 55,
+            "process b fpy": 0.971818582122413,
+            "process c input": 2262,
+            "process c reworked": 24,
+            "process c fpy": 0.9288240495137047,
+            "output": 2125
+        },
+        "2021-04-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 23,
+            "process a fpy": 0.9604166666666667,
+            "process b input": 2328,
+            "process b reworked": 338,
+            "process b fpy": 0.8002577319587629,
+            "process c input": 2201,
+            "process c reworked": 46,
+            "process c fpy": 0.9786460699681963,
+            "output": 2200
+        },
+        "2021-04-20": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 338,
+            "process a fpy": 0.8533333333333334,
+            "process b input": 2386,
+            "process b reworked": 8,
+            "process b fpy": 0.9635373009220453,
+            "process c input": 2307,
+            "process c reworked": 4,
+            "process c fpy": 0.9969657563935848,
+            "output": 2304
+        },
+        "2021-04-21": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 46,
+            "process a fpy": 0.8925,
+            "process b input": 2188,
+            "process b reworked": 219,
+            "process b fpy": 0.8848263254113345,
+            "process c input": 2155,
+            "process c reworked": 46,
+            "process c fpy": 0.9772621809744779,
+            "output": 2152
+        },
+        "2021-04-22": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 148,
+            "process a fpy": 0.9229166666666667,
+            "process b input": 2363,
+            "process b reworked": 6,
+            "process b fpy": 0.9648751586965721,
+            "process c input": 2286,
+            "process c reworked": 70,
+            "process c fpy": 0.9593175853018373,
+            "output": 2263
+        },
+        "2021-04-23": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 292,
+            "process a fpy": 0.8541666666666666,
+            "process b input": 2342,
+            "process b reworked": 35,
+            "process b fpy": 0.8680614859094791,
+            "process c input": 2068,
+            "process c reworked": 25,
+            "process c fpy": 0.9540618955512572,
+            "output": 1998
+        },
+        "2021-04-24": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 111,
+            "process a fpy": 0.91125,
+            "process b input": 2298,
+            "process b reworked": 78,
+            "process b fpy": 0.8281114012184508,
+            "process c input": 1981,
+            "process c reworked": 16,
+            "process c fpy": 0.9717314487632509,
+            "output": 1941
+        },
+        "2021-04-25": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 86,
+            "process a fpy": 0.9304166666666667,
+            "process b input": 2319,
+            "process b reworked": 139,
+            "process b fpy": 0.901250539025442,
+            "process c input": 2229,
+            "process c reworked": 47,
+            "process c fpy": 0.9479587258860476,
+            "output": 2160
+        },
+        "2021-04-26": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 9,
+            "process a fpy": 0.9841666666666666,
+            "process b input": 2371,
+            "process b reworked": 178,
+            "process b fpy": 0.8371994938844369,
+            "process c input": 2163,
+            "process c reworked": 155,
+            "process c fpy": 0.9214054553860379,
+            "output": 2148
+        },
+        "2021-04-27": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 2,
+            "process a fpy": 0.9420833333333334,
+            "process b input": 2263,
+            "process b reworked": 146,
+            "process b fpy": 0.9133893062306673,
+            "process c input": 2213,
+            "process c reworked": 83,
+            "process c fpy": 0.9453230908269318,
+            "output": 2175
+        },
+        "2021-04-28": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 253,
+            "process a fpy": 0.8708333333333333,
+            "process b input": 2343,
+            "process b reworked": 9,
+            "process b fpy": 0.8484848484848485,
+            "process c input": 1997,
+            "process c reworked": 103,
+            "process c fpy": 0.9308963445167752,
+            "output": 1962
+        },
+        "2021-04-29": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 307,
+            "process a fpy": 0.8529166666666667,
+            "process b input": 2354,
+            "process b reworked": 18,
+            "process b fpy": 0.9796091758708582,
+            "process c input": 2324,
+            "process c reworked": 59,
+            "process c fpy": 0.9500860585197934,
+            "output": 2267
+        },
+        "2021-04-30": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 31,
+            "process a fpy": 0.91125,
+            "process b input": 2218,
+            "process b reworked": 59,
+            "process b fpy": 0.9017132551848512,
+            "process c input": 2059,
+            "process c reworked": 5,
+            "process c fpy": 0.9528897523069452,
+            "output": 1967
+        },
+        "2021-05-01": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 22,
+            "process a fpy": 0.9620833333333333,
+            "process b input": 2331,
+            "process b reworked": 14,
+            "process b fpy": 0.9365079365079365,
+            "process c input": 2197,
+            "process c reworked": 27,
+            "process c fpy": 0.9508420573509331,
+            "output": 2116
+        },
+        "2021-05-02": {
+            "process a input": 2341,
+            "availability": "23:25",
+            "process a reworked": 69,
+            "process a fpy": 0.9414780008543358,
+            "process b input": 2273,
+            "process b reworked": 64,
+            "process b fpy": 0.9300483941926969,
+            "process c input": 2178,
+            "process c reworked": 14,
+            "process c fpy": 0.9871441689623508,
+            "output": 2164
+        },
+        "2021-05-03": {
+            "process a input": 819,
+            "availability": "08:12",
+            "process a reworked": 64,
+            "process a fpy": 0.9010989010989011,
+            "process b input": 802,
+            "process b reworked": 4,
+            "process b fpy": 0.942643391521197,
+            "process c input": 760,
+            "process c reworked": 37,
+            "process c fpy": 0.9368421052631579,
+            "output": 749
+        },
+        "2021-05-04": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 39,
+            "process a fpy": 0.96875,
+            "process b input": 2364,
+            "process b reworked": 164,
+            "process b fpy": 0.9086294416243654,
+            "process c input": 2312,
+            "process c reworked": 1,
+            "process c fpy": 0.9974048442906575,
+            "output": 2307
+        },
+        "2021-05-05": {
+            "process a input": 2036,
+            "availability": "20:22",
+            "process a reworked": 161,
+            "process a fpy": 0.9140471512770137,
+            "process b input": 2022,
+            "process b reworked": 143,
+            "process b fpy": 0.8194856577645895,
+            "process c input": 1800,
+            "process c reworked": 4,
+            "process c fpy": 0.9966666666666667,
+            "output": 1798
+        },
+        "2021-05-06": {
+            "process a input": 1998,
+            "availability": "19:59",
+            "process a reworked": 50,
+            "process a fpy": 0.9629629629629629,
+            "process b input": 1974,
+            "process b reworked": 19,
+            "process b fpy": 0.9260385005065856,
+            "process c input": 1847,
+            "process c reworked": 13,
+            "process c fpy": 0.9794260963724959,
+            "output": 1822
+        },
+        "2021-05-07": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 42,
+            "process a fpy": 0.9491666666666667,
+            "process b input": 2320,
+            "process b reworked": 53,
+            "process b fpy": 0.8849137931034483,
+            "process c input": 2106,
+            "process c reworked": 34,
+            "process c fpy": 0.9738841405508072,
+            "output": 2085
+        },
+        "2021-05-08": {
+            "process a input": 1150,
+            "availability": "11:30",
+            "process a reworked": 5,
+            "process a fpy": 0.98,
+            "process b input": 1132,
+            "process b reworked": 75,
+            "process b fpy": 0.9257950530035336,
+            "process c input": 1123,
+            "process c reworked": 2,
+            "process c fpy": 0.9243098842386465,
+            "output": 1040
+        },
+        "2021-05-09": {
+            "process a input": 953,
+            "availability": "09:32",
+            "process a reworked": 55,
+            "process a fpy": 0.925498426023085,
+            "process b input": 937,
+            "process b reworked": 4,
+            "process b fpy": 0.9850586979722519,
+            "process c input": 927,
+            "process c reworked": 0,
+            "process c fpy": 0.9784250269687162,
+            "output": 907
+        },
+        "2021-05-10": {
+            "process a input": 1798,
+            "availability": "17:59",
+            "process a reworked": 1,
+            "process a fpy": 0.9894327030033371,
+            "process b input": 1780,
+            "process b reworked": 150,
+            "process b fpy": 0.8101123595505618,
+            "process c input": 1592,
+            "process c reworked": 58,
+            "process c fpy": 0.9610552763819096,
+            "output": 1588
+        },
+        "2021-05-11": {
+            "process a input": 658,
+            "availability": "06:35",
+            "process a reworked": 12,
+            "process a fpy": 0.8541033434650456,
+            "process b input": 574,
+            "process b reworked": 5,
+            "process b fpy": 0.8693379790940766,
+            "process c input": 504,
+            "process c reworked": 32,
+            "process c fpy": 0.9206349206349206,
+            "output": 496
+        },
+        "2021-05-12": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 64,
+            "process a fpy": 0.9545833333333333,
+            "process b input": 2355,
+            "process b reworked": 26,
+            "process b fpy": 0.8110403397027601,
+            "process c input": 1936,
+            "process c reworked": 42,
+            "process c fpy": 0.9674586776859504,
+            "output": 1915
+        },
+        "2021-05-13": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 247,
+            "process a fpy": 0.8666666666666667,
+            "process b input": 2327,
+            "process b reworked": 288,
+            "process b fpy": 0.8165019338203696,
+            "process c input": 2188,
+            "process c reworked": 19,
+            "process c fpy": 0.9808043875685558,
+            "output": 2165
+        },
+        "2021-05-14": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 89,
+            "process a fpy": 0.9320833333333334,
+            "process b input": 2326,
+            "process b reworked": 180,
+            "process b fpy": 0.850816852966466,
+            "process c input": 2159,
+            "process c reworked": 51,
+            "process c fpy": 0.9295970356646596,
+            "output": 2058
+        },
+        "2021-05-15": {
+            "process a input": 1960,
+            "availability": "19:36",
+            "process a reworked": 237,
+            "process a fpy": 0.8688775510204082,
+            "process b input": 1940,
+            "process b reworked": 17,
+            "process b fpy": 0.9324742268041237,
+            "process c input": 1826,
+            "process c reworked": 11,
+            "process c fpy": 0.9331872946330778,
+            "output": 1715
+        },
+        "2021-05-16": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 220,
+            "process a fpy": 0.8558333333333333,
+            "process b input": 2274,
+            "process b reworked": 41,
+            "process b fpy": 0.9164467897977133,
+            "process c input": 2125,
+            "process c reworked": 51,
+            "process c fpy": 0.9430588235294117,
+            "output": 2055
+        },
+        "2021-05-17": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 90,
+            "process a fpy": 0.9483333333333334,
+            "process b input": 2366,
+            "process b reworked": 25,
+            "process b fpy": 0.9881656804733728,
+            "process c input": 2363,
+            "process c reworked": 74,
+            "process c fpy": 0.9568345323741008,
+            "output": 2335
+        },
+        "2021-05-18": {
+            "process a input": 781,
+            "availability": "07:49",
+            "process a reworked": 67,
+            "process a fpy": 0.8962868117797695,
+            "process b input": 767,
+            "process b reworked": 0,
+            "process b fpy": 0.8983050847457628,
+            "process c input": 689,
+            "process c reworked": 5,
+            "process c fpy": 0.95355587808418,
+            "output": 662
+        },
+        "2021-05-19": {
+            "process a input": 2400,
+            "availability": "24:00",
+            "process a reworked": 113,
+            "process a fpy": 0.8879166666666667,
+            "process b input": 2244,
+            "process b reworked": 3,
+            "process b fpy": 0.9603386809269162,
+            "process c input": 2158,
+            "process c reworked": 44,
+            "process c fpy": 0.9341983317886933,
+            "output": 2060
         }
     }
 }
