@@ -1,7 +1,7 @@
 import json
 from os import dup
 import downtimeGenerator as dG
-import productionGenerator as pG
+# import productionGenerator as pG
 import threading
 
 config = {}
@@ -38,17 +38,18 @@ def main():
     # print(json_object)
     # print(json_object)
 
-    # downtime_his = dG.generate_downtime_records()
-    # history_log = {"down time": downtime_his}
-    # with open("data.json", "w") as f:
-    #     json.dump(history_log, f, indent=4)
+    downtime_log = dG.generate_downtime_records()
+
+    json_object = json.dumps(downtime_log, indent=4)
+    print(json_object)
+
+    with open("downtime.json", "w") as f:
+        json.dump(downtime_log, f, indent=4)
     # history_log["production"] = pG.production_generator()
     # with open("data.json", "w") as f:
     #     json.dump(history_log, f, indent=4)
 
     # history_log = {"down time": downtime_his}
-    # json_object = json.dumps(history_log, indent=4)
-    # print(json_object)
     # with open("data.json", "w") as f:
     # json.dump(history_log, f, indent=4)
     # temp = dG.generate_downtime_record(dG.duration[0])

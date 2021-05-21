@@ -1,0 +1,660 @@
+{
+    "2021-02-10": {
+        "total": "03:50",
+        "detail": [
+            {
+                "time": {
+                    "start": "18:27",
+                    "end": "22:17"
+                },
+                "duration": "03:50",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-02-14": {
+        "total": "15:48",
+        "detail": [
+            {
+                "time": {
+                    "start": "00:31",
+                    "end": "16:19"
+                },
+                "duration": "15:48",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-02-18": {
+        "total": "20:20",
+        "detail": [
+            {
+                "time": {
+                    "start": "02:05",
+                    "end": "22:25"
+                },
+                "duration": "20:20",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-02-19": {
+        "total": "08:57",
+        "detail": [
+            {
+                "time": {
+                    "start": "05:37",
+                    "end": "14:34"
+                },
+                "duration": "08:57",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-02-20": {
+        "total": "12:49",
+        "detail": [
+            {
+                "time": {
+                    "start": "02:53",
+                    "end": "12:00"
+                },
+                "duration": "09:07",
+                "reason": "Broken Machine"
+            },
+            {
+                "time": {
+                    "start": "18:01",
+                    "end": "21:40"
+                },
+                "duration": "03:39",
+                "reason": "Broken Machine"
+            },
+            {
+                "time": {
+                    "start": "21:54",
+                    "end": "21:57"
+                },
+                "duration": "00:03",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-02-23": {
+        "total": "01:01",
+        "detail": [
+            {
+                "time": {
+                    "start": "21:17",
+                    "end": "21:25"
+                },
+                "duration": "00:08",
+                "reason": "Service"
+            },
+            {
+                "time": {
+                    "start": "21:43",
+                    "end": "21:58"
+                },
+                "duration": "00:15",
+                "reason": "Others"
+            },
+            {
+                "time": {
+                    "start": "22:11",
+                    "end": "22:49"
+                },
+                "duration": "00:38",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-02-25": {
+        "total": "02:43",
+        "detail": [
+            {
+                "time": {
+                    "start": "19:50",
+                    "end": "20:32"
+                },
+                "duration": "00:42",
+                "reason": "Others"
+            },
+            {
+                "time": {
+                    "start": "20:56",
+                    "end": "22:57"
+                },
+                "duration": "02:01",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-02-26": {
+        "total": "00:59",
+        "detail": [
+            {
+                "time": {
+                    "start": "18:55",
+                    "end": "19:45"
+                },
+                "duration": "00:50",
+                "reason": "Service"
+            },
+            {
+                "time": {
+                    "start": "19:49",
+                    "end": "19:58"
+                },
+                "duration": "00:09",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-02-27": {
+        "total": "07:24",
+        "detail": [
+            {
+                "time": {
+                    "start": "04:25",
+                    "end": "11:49"
+                },
+                "duration": "07:24",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-03-02": {
+        "total": "09:41",
+        "detail": [
+            {
+                "time": {
+                    "start": "02:48",
+                    "end": "12:29"
+                },
+                "duration": "09:41",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-03-03": {
+        "total": "12:53",
+        "detail": [
+            {
+                "time": {
+                    "start": "03:17",
+                    "end": "16:10"
+                },
+                "duration": "12:53",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-03-05": {
+        "total": "03:26",
+        "detail": [
+            {
+                "time": {
+                    "start": "11:12",
+                    "end": "14:38"
+                },
+                "duration": "03:26",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-03-06": {
+        "total": "02:36",
+        "detail": [
+            {
+                "time": {
+                    "start": "19:04",
+                    "end": "20:34"
+                },
+                "duration": "01:30",
+                "reason": "Uncategorized"
+            },
+            {
+                "time": {
+                    "start": "20:58",
+                    "end": "21:57"
+                },
+                "duration": "00:59",
+                "reason": "Service"
+            },
+            {
+                "time": {
+                    "start": "22:24",
+                    "end": "22:31"
+                },
+                "duration": "00:07",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-03-07": {
+        "total": "00:33",
+        "detail": [
+            {
+                "time": {
+                    "start": "22:18",
+                    "end": "22:51"
+                },
+                "duration": "00:33",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-03-11": {
+        "total": "10:20",
+        "detail": [
+            {
+                "time": {
+                    "start": "08:15",
+                    "end": "18:35"
+                },
+                "duration": "10:20",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-03-19": {
+        "total": "01:45",
+        "detail": [
+            {
+                "time": {
+                    "start": "20:21",
+                    "end": "22:06"
+                },
+                "duration": "01:45",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-03-23": {
+        "total": "02:01",
+        "detail": [
+            {
+                "time": {
+                    "start": "11:44",
+                    "end": "13:45"
+                },
+                "duration": "02:01",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-03-24": {
+        "total": "00:06",
+        "detail": [
+            {
+                "time": {
+                    "start": "11:27",
+                    "end": "11:33"
+                },
+                "duration": "00:06",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-03-25": {
+        "total": "00:08",
+        "detail": [
+            {
+                "time": {
+                    "start": "21:04",
+                    "end": "21:12"
+                },
+                "duration": "00:08",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-03-26": {
+        "total": "00:15",
+        "detail": [
+            {
+                "time": {
+                    "start": "19:31",
+                    "end": "19:46"
+                },
+                "duration": "00:15",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-03-27": {
+        "total": "00:40",
+        "detail": [
+            {
+                "time": {
+                    "start": "06:02",
+                    "end": "06:23"
+                },
+                "duration": "00:21",
+                "reason": "Others"
+            },
+            {
+                "time": {
+                    "start": "22:14",
+                    "end": "22:33"
+                },
+                "duration": "00:19",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-03-28": {
+        "total": "04:28",
+        "detail": [
+            {
+                "time": {
+                    "start": "15:08",
+                    "end": "19:36"
+                },
+                "duration": "04:28",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-03-30": {
+        "total": "08:50",
+        "detail": [
+            {
+                "time": {
+                    "start": "03:57",
+                    "end": "12:47"
+                },
+                "duration": "08:50",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-04-02": {
+        "total": "00:07",
+        "detail": [
+            {
+                "time": {
+                    "start": "21:46",
+                    "end": "21:53"
+                },
+                "duration": "00:07",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-04": {
+        "total": "17:44",
+        "detail": [
+            {
+                "time": {
+                    "start": "04:12",
+                    "end": "21:56"
+                },
+                "duration": "17:44",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-04-06": {
+        "total": "13:08",
+        "detail": [
+            {
+                "time": {
+                    "start": "06:05",
+                    "end": "19:09"
+                },
+                "duration": "13:04",
+                "reason": "Others"
+            },
+            {
+                "time": {
+                    "start": "20:48",
+                    "end": "20:52"
+                },
+                "duration": "00:04",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-04-07": {
+        "total": "00:24",
+        "detail": [
+            {
+                "time": {
+                    "start": "16:48",
+                    "end": "17:12"
+                },
+                "duration": "00:24",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-14": {
+        "total": "08:44",
+        "detail": [
+            {
+                "time": {
+                    "start": "08:34",
+                    "end": "17:18"
+                },
+                "duration": "08:44",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-17": {
+        "total": "00:02",
+        "detail": [
+            {
+                "time": {
+                    "start": "07:51",
+                    "end": "07:53"
+                },
+                "duration": "00:02",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-04-18": {
+        "total": "05:27",
+        "detail": [
+            {
+                "time": {
+                    "start": "16:00",
+                    "end": "21:27"
+                },
+                "duration": "05:27",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-04-19": {
+        "total": "03:46",
+        "detail": [
+            {
+                "time": {
+                    "start": "16:49",
+                    "end": "20:35"
+                },
+                "duration": "03:46",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-20": {
+        "total": "02:18",
+        "detail": [
+            {
+                "time": {
+                    "start": "19:01",
+                    "end": "21:19"
+                },
+                "duration": "02:18",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-21": {
+        "total": "14:36",
+        "detail": [
+            {
+                "time": {
+                    "start": "02:53",
+                    "end": "15:32"
+                },
+                "duration": "12:39",
+                "reason": "Others"
+            },
+            {
+                "time": {
+                    "start": "16:03",
+                    "end": "18:00"
+                },
+                "duration": "01:57",
+                "reason": "Others"
+            }
+        ]
+    },
+    "2021-04-26": {
+        "total": "11:37",
+        "detail": [
+            {
+                "time": {
+                    "start": "06:32",
+                    "end": "18:09"
+                },
+                "duration": "11:37",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-04-27": {
+        "total": "05:43",
+        "detail": [
+            {
+                "time": {
+                    "start": "06:17",
+                    "end": "12:00"
+                },
+                "duration": "05:43",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-04-29": {
+        "total": "03:43",
+        "detail": [
+            {
+                "time": {
+                    "start": "11:49",
+                    "end": "15:32"
+                },
+                "duration": "03:43",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-05-02": {
+        "total": "00:05",
+        "detail": [
+            {
+                "time": {
+                    "start": "21:39",
+                    "end": "21:44"
+                },
+                "duration": "00:05",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-05-03": {
+        "total": "08:42",
+        "detail": [
+            {
+                "time": {
+                    "start": "06:54",
+                    "end": "15:36"
+                },
+                "duration": "08:42",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-05-05": {
+        "total": "04:26",
+        "detail": [
+            {
+                "time": {
+                    "start": "11:20",
+                    "end": "15:46"
+                },
+                "duration": "04:26",
+                "reason": "Broken Machine"
+            }
+        ]
+    },
+    "2021-05-10": {
+        "total": "03:00",
+        "detail": [
+            {
+                "time": {
+                    "start": "19:12",
+                    "end": "21:50"
+                },
+                "duration": "02:38",
+                "reason": "Broken Machine"
+            },
+            {
+                "time": {
+                    "start": "21:58",
+                    "end": "22:20"
+                },
+                "duration": "00:22",
+                "reason": "Uncategorized"
+            }
+        ]
+    },
+    "2021-05-11": {
+        "total": "00:34",
+        "detail": [
+            {
+                "time": {
+                    "start": "20:55",
+                    "end": "21:17"
+                },
+                "duration": "00:22",
+                "reason": "Broken Machine"
+            },
+            {
+                "time": {
+                    "start": "21:39",
+                    "end": "21:51"
+                },
+                "duration": "00:12",
+                "reason": "Service"
+            }
+        ]
+    },
+    "2021-05-18": {
+        "total": "02:12",
+        "detail": [
+            {
+                "time": {
+                    "start": "02:18",
+                    "end": "03:20"
+                },
+                "duration": "01:02",
+                "reason": "Service"
+            },
+            {
+                "time": {
+                    "start": "18:16",
+                    "end": "19:26"
+                },
+                "duration": "01:10",
+                "reason": "Broken Machine"
+            }
+        ]
+    }
+}

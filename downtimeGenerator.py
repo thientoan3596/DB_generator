@@ -17,13 +17,13 @@ terminate = [False]
 
 
 def parse_conf():
-    reason_count = config["down time"]["count"]
+    reason_count = config["downtime"]["count"]
     i = 0
     while i < reason_count:
-        down_time_reasons.append(config["down time"]["reasons"][i])
+        down_time_reasons.append(config["downtime"]["reasons"][i])
         i += 1
-    rate[0] = config["down time"]["rate"]
-    duration[0] = config["history length"]
+    rate[0] = config["downtime"]["rate"]
+    duration[0] = config["history_length"]
     parsed[0] = True
 
 
@@ -65,7 +65,7 @@ def generate_downtime_records():
             # down_time_log.append({"date": str(
             #     _date), "detail": daily_tickets, "total down time": str(daily_total_down_time)})
             down_time_log[str(_date)] = {
-                "total down time": str(daily_total_down_time), "detail": daily_tickets}
+                "total": str(daily_total_down_time), "detail": daily_tickets}
         duration[0] -= 1
 
     return down_time_log
@@ -109,7 +109,7 @@ def turn_off_sys():
     if str(utils._date(datetime.now())) not in system_status["log"]:
         system_status["log"][str(utils._date(datetime.now()))] = {}
         system_status["log"][str(utils._date(
-            datetime.now()))]["total down time"] = "00:00"
+            datetime.now()))]["total"] = "00:00"
         system_status["log"][str(utils._date(
             datetime.now()))]["detail"] = []
     cache.append({"time": {"start": str(utils._time(datetime.now()))}})
@@ -132,8 +132,8 @@ def turn_on_sys():
     else:
         cache[-1]["reason"] = down_time_reasons[random.randrange(
             0, len(down_time_reasons))]
-    system_status["log"][str(utils._date(datetime.now()))]["total down time"] = str(utils._time(
-        system_status["log"][str(utils._date(datetime.now()))]["total down time"])+utils._time(cache[-1]["duration"]))
+    system_status["log"][str(utils._date(datetime.now()))]["total"] = str(utils._time(
+        system_status["log"][str(utils._date(datetime.now()))]["total"])+utils._time(cache[-1]["duration"]))
 
     system_status["log"][str(utils._date(datetime.now()))
                          ]["detail"].append(cache[-1])
